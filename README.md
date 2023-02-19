@@ -1,4 +1,4 @@
-[TLDR](https://github.com/menjaraz-org/project-euler/blob/main/README.md#tldr)
+[TLDR](https://github.com/beskikoo/project-euler/blob/main/README.md#tldr)
 
 # Project Euler Solutions
 
@@ -41,8 +41,8 @@ Let's dive in Together... we have got a way to go, indeed a very very long journ
 
 Otherwise direct to point:
 
-- [D](https://github.com/menjaraz-org/project-euler/tree/main/dlang)
-- [Delphi](https://github.com/menjaraz-org/project-euler/tree/main/delphi)
-- [R](https://github.com/menjaraz-org/project-euler/tree/main/R)
-- [C++](https://github.com/menjaraz-org/project-euler/tree/main/c%2B%2B)
-- [MiniZinc](https://github.com/menjaraz-org/project-euler/tree/main/minizinc)
+- [D](https://github.com/beskikoo/project-euler/tree/main/dlang)
+- [Delphi](https://github.com/beskikoo/project-euler/tree/main/delphi)
+- [R](https://github.com/beskikoo/project-euler/tree/main/R)
+- [C++](https://github.com/beskikoo/project-euler/tree/main/c%2B%2B)
+- [MiniZinc](https://github.com/beskikoo/project-euler/tree/main/minizinc)
