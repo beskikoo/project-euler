@@ -1,0 +1,54 @@
+# Solution List
+
+| ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
+|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+| [1](https://projecteuler.net/problem=1)  | Multiples of 3 or 5 | [q0001.d](https://github.com/menjaraz-org/project-euler/blob/main/dlang/q0001.d) | [q0001.dpr](https://github.com/menjaraz-org/project-euler/blob/main/delphi/q0001.dpr) |
+| [2](https://projecteuler.net/problem=2)  | Even Fibonacci numbers | [q0002.d](https://github.com/menjaraz-org/project-euler/blob/main/dlang/q0002.d) | [q0002.dpr](https://github.com/menjaraz-org/project-euler/blob/main/delphi/q0002.dpr) |
+| [3](https://projecteuler.net/problem=3)  | Largest prime factor | [q0003.d](https://github.com/menjaraz-org/project-euler/blob/main/dlang/q0003.d) |
+| [4](https://projecteuler.net/problem=4)  | Largest palindrome product |  |
+| [5](https://projecteuler.net/problem=5)  | Smallest multiple |  |
+| [6](https://projecteuler.net/problem=6)  | Sum square difference | [q0006.d](https://github.com/menjaraz-org/project-euler/blob/main/dlang/q0006.d) |
+| [7](https://projecteuler.net/problem=7)  | 10001st prime |  |
+| [8](https://projecteuler.net/problem=8)  | Largest product in a series |  |
+| [9](https://projecteuler.net/problem=9)  | Special Pythagorean triplet |  |
+| [10](https://projecteuler.net/problem=10) | Summation of primes |  |
+| [11](https://projecteuler.net/problem=11) | Largest product in a grid |  |
+| [12](https://projecteuler.net/problem=12) | Highly divisible triangular number |  |
+| [13](https://projecteuler.net/problem=13) | Large sum | [q0013.d](https://github.com/menjaraz-org/project-euler/blob/main/dlang/q0013.d) |
+| [14](https://projecteuler.net/problem=14) | Longest Collatz sequence |  |
+| [15](https://projecteuler.net/problem=15) | Lattice paths |  |
+| [16](https://projecteuler.net/problem=16) | Power digit sum |  |
+| [17](https://projecteuler.net/problem=17) | Number letter counts |  |
+| [18](https://projecteuler.net/problem=18) | Maximum path sum I |  |
+| [19](https://projecteuler.net/problem=19) | Counting Sundays | [q0019.d](https://github.com/menjaraz-org/project-euler/blob/main/dlang/q0019.d) | [q0019.dpr](https://github.com/menjaraz-org/project-euler/blob/main/delphi/q0019.dpr) |
+| [20](https://projecteuler.net/problem=20) | Factorial digit sum |  |
+| [21](https://projecteuler.net/problem=21) | Amicable numbers |  |
+| [22](https://projecteuler.net/problem=22) | Names scores |  |
+| [23](https://projecteuler.net/problem=23) | Non-abundant sums |  |
+| [24](https://projecteuler.net/problem=24) | Lexicographic permutations |  |
+| [25](https://projecteuler.net/problem=25) | 1000-digit Fibonacci number |  |
+| [26](https://projecteuler.net/problem=26) | Reciprocal cycles |  |
+| [27](https://projecteuler.net/problem=27) | Quadratic primes |  |
+| [28](https://projecteuler.net/problem=28) | Number spiral diagonals |  |
+| [29](https://projecteuler.net/problem=29) | Distinct powers |  |
+| [30](https://projecteuler.net/problem=30) | Digit fifth powers |  |
+| [31](https://projecteuler.net/problem=31) | Coin sums | [q0031.d](https://github.com/menjaraz-org/project-euler/blob/main/dlang/q0031.d) |
+| [32](https://projecteuler.net/problem=32) | Digit fifth powers |  |
+| [33](https://projecteuler.net/problem=33) | Digit cancelling fractions |  |
+| [34](https://projecteuler.net/problem=34) | Digit factorials |  |
+| [35](https://projecteuler.net/problem=35) | Circular primes |  |
+| [36](https://projecteuler.net/problem=36) | Double-base palindromes |  |
+| [37](https://projecteuler.net/problem=37) | Truncatable primes |  |
+| [38](https://projecteuler.net/problem=38) | Pandigital multiples |  | [q0038.dpr](https://github.com/menjaraz-org/project-euler/blob/main/delphi/q0038.dpr) |
+| [39](https://projecteuler.net/problem=39) | Integer right triangles |  |
+| [40](https://projecteuler.net/problem=40) | Champernowne's constant |  |
+| [41](https://projecteuler.net/problem=41) | Pandigital prime |  |
+| [42](https://projecteuler.net/problem=42) | Coded triangle numbers |  |
+| [43](https://projecteuler.net/problem=43) | Sub-string divisibility |  |
+| [44](https://projecteuler.net/problem=44) | Pentagon numbers |  |
+| [45](https://projecteuler.net/problem=45) | Triangular, pentagonal, and hexagonal |  |
+| [46](https://projecteuler.net/problem=46) | Goldbach's other conjecture |  |
+| [47](https://projecteuler.net/problem=47) | Distinct primes factors |  |
+| [48](https://projecteuler.net/problem=48) | Self powers | [q0048.d](https://github.com/menjaraz-org/project-euler/blob/main/dlang/q0048.d) |
+| [49](https://projecteuler.net/problem=49) | Prime permutations |  |
+| [50](https://projecteuler.net/problem=50) | Consecutive prime sum |  |
