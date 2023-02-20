@@ -52,4 +52,5 @@
 | [48](https://projecteuler.net/problem=48) | Self powers | [q0048.d](https://github.com/menjaraz-org/project-euler/blob/main/dlang/q0048.d) |
 | [49](https://projecteuler.net/problem=49) | Prime permutations |  |
 | [50](https://projecteuler.net/problem=50) | Consecutive prime sum |  |
+| [776](https://projecteuler.net/problem=776) | Digit Sum Division |  |
 | [804](https://projecteuler.net/problem=804) | Counting Binary Quadratic Representations |  |
