@@ -14,7 +14,7 @@ Coding, at the bottom line, is **Math** :brain: :brain: :brain: ... and I took s
 
 <p align="center"><img src="logo.png"></p>
 
-I was involved in Auditing, Software Development, Venture Capital, Property Management, Public Administration and Business Management.
+I was involved in Financial Auditing, Software Development, Venture Capital, Property Management, Public Administration and Business Management.
 
 ## Coding and why mostly Delphi and D?
 
