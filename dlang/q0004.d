@@ -64,7 +64,7 @@ void main() {
         
         // Finding factors
 		
-		factors = [];
+        factors = [];
         
         for(int j = 997; j >= 100; j--) {
             
