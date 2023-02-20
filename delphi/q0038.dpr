@@ -8,7 +8,7 @@
   *
   * Written in Delphi 11.0 - Target Platform Windows 64-bits
   *
-  * Copyright © 2023, menjaraz
+  * Copyright Â© 2023, menjaraz
 *)
 
 program q0038;
@@ -89,10 +89,8 @@ begin
     //
     StopWatch.Stop;
     
-    
     ElapsedTime := StopWatch.ElapsedMilliseconds;
 
-    //
     Writeln(MaxP);
 
     Writeln;
