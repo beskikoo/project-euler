@@ -51,12 +51,15 @@ end;
 
 begin
   try
-    StopWatch := TStopwatch.StartNew;
-
-    ElapsedTime := StopWatch.ElapsedMilliseconds;
+    
+	StopWatch := TStopwatch.StartNew;
     //
     Writeln(Largest3PalindromeProduct);
     //
+    StopWatch.Stop;
+    
+    ElapsedTime := StopWatch.ElapsedMilliseconds;
+    
     Writeln;
     Writeln(Format('Elapsed time: %u milliseconds.', [ElapsedTime]));
 

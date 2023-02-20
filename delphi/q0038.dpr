@@ -68,11 +68,9 @@ end;
 
 begin
   try
+    
     StopWatch := TStopwatch.StartNew;
-
-    ElapsedTime := StopWatch.ElapsedMilliseconds;
     //
-
     MaxP := 0;
 
     for m := 9999 downto 1 do
@@ -88,6 +86,11 @@ begin
         end;
 
       end;
+    //
+    StopWatch.Stop;
+    
+    
+    ElapsedTime := StopWatch.ElapsedMilliseconds;
 
     //
     Writeln(MaxP);

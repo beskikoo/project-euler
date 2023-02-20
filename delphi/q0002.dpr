@@ -52,10 +52,13 @@ begin
   try
     StopWatch := TStopwatch.StartNew;
 
-    ElapsedTime := StopWatch.ElapsedMilliseconds;
     //
     Writeln(SumOfEvenFibo(4000000));
-
+    //
+    StopWatch.Stop;
+    
+    ElapsedTime := StopWatch.ElapsedMilliseconds;
+    
     Writeln;
     Writeln(Format('Elapsed time: %u milliseconds.', [ElapsedTime]));
 

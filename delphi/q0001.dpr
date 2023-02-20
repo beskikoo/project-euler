@@ -55,12 +55,13 @@ end;
 begin
   try
     StopWatch := TStopwatch.StartNew;
-
-    ElapsedTime := StopWatch.ElapsedMilliseconds;
     //
      Writeln(SumOfMult(1000,3,5));
     //
-
+    StopWatch.Stop;
+	.
+    ElapsedTime := StopWatch.ElapsedMilliseconds;
+	
     Writeln;
     Writeln(Format('Elapsed time: %u milliseconds.', [ElapsedTime]));
 

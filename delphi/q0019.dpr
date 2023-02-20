@@ -29,8 +29,9 @@ var
 
 begin
   try
+    
     StopWatch := TStopwatch.StartNew;
-
+    //
     count := 0;
 
     for year := 1901 to 2000 do
@@ -44,7 +45,9 @@ begin
         end;
 
       end;
-
+    //
+    StopWatch.Stop;
+    
     ElapsedTime := StopWatch.ElapsedMilliseconds;
 
     Writeln(count);

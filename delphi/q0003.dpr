@@ -53,9 +53,8 @@ var
 
 begin
   try
+    
     StopWatch := TStopwatch.StartNew;
-
-    StopWatch.Start;
     //
     Writeln(largestPrimeFactor(600851475143));
     //
