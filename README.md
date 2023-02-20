@@ -1,4 +1,4 @@
-[TLDR](https://github.com/beskikoo/project-euler/blob/main/README.md#tldr)
+[TL;DR](https://github.com/beskikoo/project-euler/blob/main/README.md#tldr)
 
 # Project Euler Solutions
 
@@ -33,7 +33,7 @@ _Smart Young People_, I'm talking to **You** and if you dream of it... take noti
 
 
 
-## TLDR
+## TL;DR
 
 Let's dive in Together... we have got a way to go, indeed a very very long journey.
 
