@@ -8,7 +8,7 @@
   *
   * Written in Delphi 11.0 - Target Platform Windows 64-bits
   *
-  * Copyright © 2023, menjaraz
+  * Copyright Â© 2023, menjaraz
 *)
 
 program q0004;
@@ -51,8 +51,7 @@ end;
 
 begin
   try
-    
-	StopWatch := TStopwatch.StartNew;
+    StopWatch := TStopwatch.StartNew;
     //
     Writeln(Largest3PalindromeProduct);
     //
