@@ -20,8 +20,8 @@ I was involved in Financial Auditing, Software Development, Venture Capital, Pro
 
 Relevant _computer literacy_ right after graduation combined with an _early exposition_ to [IBM Personal Computer XT](https://en.wikipedia.org/wiki/IBM_Personal_Computer_XT) at work since first job helped me a lot _Starting the Ball Bolling_.
 
-- [Delphi 11](https://www.embarcadero.com/products/delphi) my language of choice.
-- [DMD Version 2](https://dlang.org) for side projects.
+- [Delphi](https://www.embarcadero.com/products/delphi) (11 Alexandria) my language of choice.
+- [DMD](https://dlang.org) (Version 2) for side projects.
 
 I may also later seldom upload some [R](https://www.r-project.org/about.html), [MiniZinc](https://www.minizinc.org/) and [C++](https://fr.wikipedia.org/wiki/C%2B%2B) pieces of code.
 
