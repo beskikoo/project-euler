@@ -7,7 +7,7 @@
 | [3](https://projecteuler.net/problem=3)  | Largest prime factor | [q0003.d](https://github.com/menjaraz-org/project-euler/blob/main/dlang/q0003.d) | [q0003.dpr](https://github.com/menjaraz-org/project-euler/blob/main/delphi/q0003.dpr) |
 | [4](https://projecteuler.net/problem=4)  | Largest palindrome product | [q0004.d](https://github.com/menjaraz-org/project-euler/blob/main/dlang/q0004.d) | [q0004.dpr](https://github.com/menjaraz-org/project-euler/blob/main/delphi/q0004.dpr) |
 | [5](https://projecteuler.net/problem=5)  | Smallest multiple |  |
-| [6](https://projecteuler.net/problem=6)  | Sum square difference | [q0006.d](https://github.com/menjaraz-org/project-euler/blob/main/dlang/q0006.d) |  | [q0006.r](https://github.com/menjaraz-org/project-euler/blob/main/r/q0006.r) |
+| [6](https://projecteuler.net/problem=6)  | Sum square difference | [q0006.d](https://github.com/menjaraz-org/project-euler/blob/main/dlang/q0006.d) |  | [q0006.r](https://github.com/menjaraz-org/project-euler/blob/main/R/q0006.r) |
 | [7](https://projecteuler.net/problem=7)  | 10001st prime |  |
 | [8](https://projecteuler.net/problem=8)  | Largest product in a series |  |
 | [9](https://projecteuler.net/problem=9)  | Special Pythagorean triplet |  |
