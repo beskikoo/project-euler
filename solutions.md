@@ -60,7 +60,14 @@
 | [56](https://projecteuler.net/problem=56) |  |  |
 | [57](https://projecteuler.net/problem=57) |  |  |
 | [58](https://projecteuler.net/problem=58) |  |  |
-
+| [59](https://projecteuler.net/problem=59) |  |  |
+| [60](https://projecteuler.net/problem=60) |  |  |
+| [61](https://projecteuler.net/problem=61) |  |  |
+| [62](https://projecteuler.net/problem=62) |  |  |
+| [63](https://projecteuler.net/problem=63) |  |  |
+| [64](https://projecteuler.net/problem=64) |  |  |
+| [65](https://projecteuler.net/problem=65) |  |  |
+| [66](https://projecteuler.net/problem=66) |  |  |
 | [67](https://projecteuler.net/problem=67) | Maximum path sum II |  |
 | [776](https://projecteuler.net/problem=776) | Digit Sum Division |  |
 | [804](https://projecteuler.net/problem=804) | Counting Binary Quadratic Representations |  |
