@@ -53,6 +53,13 @@
 | [49](https://projecteuler.net/problem=49) | Prime permutations |  |
 | [50](https://projecteuler.net/problem=50) | Consecutive prime sum |  |
 | [51](https://projecteuler.net/problem=51) |  |  |
+| [52](https://projecteuler.net/problem=52) |  |  |
+| [53](https://projecteuler.net/problem=53) |  |  |
+| [54](https://projecteuler.net/problem=54) |  |  |
+| [55](https://projecteuler.net/problem=55) |  |  |
+| [56](https://projecteuler.net/problem=56) |  |  |
+| [57](https://projecteuler.net/problem=57) |  |  |
+| [58](https://projecteuler.net/problem=58) |  |  |
 
 | [67](https://projecteuler.net/problem=67) | Maximum path sum II |  |
 | [776](https://projecteuler.net/problem=776) | Digit Sum Division |  |
