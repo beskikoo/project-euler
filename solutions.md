@@ -84,7 +84,17 @@
 | [77](https://projecteuler.net/problem=77) | Prime summations |  |
 | [78](https://projecteuler.net/problem=78) | Coin partitions |  |
 | [79](https://projecteuler.net/problem=79) | Passcode derivation |  |
+| [80](https://projecteuler.net/problem=80) |  |  |
+| [81](https://projecteuler.net/problem=81) |  |  |
+| [82](https://projecteuler.net/problem=82) |  |  |
+| [83](https://projecteuler.net/problem=83) |  |  |
+| [84](https://projecteuler.net/problem=84) |  |  |
+| [85](https://projecteuler.net/problem=85) |  |  |
+| [86](https://projecteuler.net/problem=86) |  |  |
+| [87](https://projecteuler.net/problem=87) |  |  |
+| [88](https://projecteuler.net/problem=88) |  |  |
 | [89](https://projecteuler.net/problem=89) |  |  |
+
 | [99](https://projecteuler.net/problem=99) |  |  |
 
 | ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
