@@ -97,14 +97,14 @@
 | [88](https://projecteuler.net/problem=88) |  |  |
 | [89](https://projecteuler.net/problem=89) |  |  |
 | [90](https://projecteuler.net/problem=90) |  |  |
-| [90](https://projecteuler.net/problem=90) |  |  |
-| [90](https://projecteuler.net/problem=90) |  |  |
-| [90](https://projecteuler.net/problem=90) |  |  |
-| [90](https://projecteuler.net/problem=90) |  |  |
-| [90](https://projecteuler.net/problem=90) |  |  |
-| [90](https://projecteuler.net/problem=90) |  |  |
-| [90](https://projecteuler.net/problem=90) |  |  |
-| [90](https://projecteuler.net/problem=90) |  |  |
+| [91](https://projecteuler.net/problem=91) |  |  |
+| [92](https://projecteuler.net/problem=92) |  |  |
+| [93](https://projecteuler.net/problem=93) |  |  |
+| [94](https://projecteuler.net/problem=94) |  |  |
+| [95](https://projecteuler.net/problem=95) |  |  |
+| [96](https://projecteuler.net/problem=96) |  |  |
+| [97](https://projecteuler.net/problem=97) |  |  |
+| [98](https://projecteuler.net/problem=98) |  |  |
 | [99](https://projecteuler.net/problem=99) |  |  |
 | [100](https://projecteuler.net/problem=100) |  |  |
 
