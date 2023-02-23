@@ -53,6 +53,8 @@
 | [49](https://projecteuler.net/problem=49) | Prime permutations |  |
 | [50](https://projecteuler.net/problem=50) | Consecutive prime sum |  |
 
+
+
 | ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | [51](https://projecteuler.net/problem=51) | Prime digit replacements |  |
