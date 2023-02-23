@@ -216,13 +216,13 @@
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | [751](https://projecteuler.net/problem=751) | Concatenation Coincidence |  |
 | [752](https://projecteuler.net/problem=752) | Powers of $(1+\sqrt 7)$ |  |
-| [753](https://projecteuler.net/problem=753) |  |  |
-| [754](https://projecteuler.net/problem=754) |  |  |
-| [755](https://projecteuler.net/problem=755) |  |  |
-| [756](https://projecteuler.net/problem=756) |  |  |
-| [757](https://projecteuler.net/problem=757) |  |  |
-| [758](https://projecteuler.net/problem=758) |  |  |
-| [759](https://projecteuler.net/problem=759) |  |  |
+| [753](https://projecteuler.net/problem=753) | Fermat Equation |  |
+| [754](https://projecteuler.net/problem=754) | Product of Gauss Factorials |  |
+| [755](https://projecteuler.net/problem=755) | Not Zeckendorf |  |
+| [756](https://projecteuler.net/problem=756) | Approximating a Sum |  |
+| [757](https://projecteuler.net/problem=757) | Stealthy Numbers |  |
+| [758](https://projecteuler.net/problem=758) | Buckets of Water |  |
+| [759](https://projecteuler.net/problem=759) | A squared recurrence relation |  |
 | [760](https://projecteuler.net/problem=760) |  |  |
 | [761](https://projecteuler.net/problem=761) |  |  |
 | [762](https://projecteuler.net/problem=762) |  |  |
