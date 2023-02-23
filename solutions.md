@@ -1,6 +1,6 @@
 # Solution List
 
-## 1..50
+### 1..50
 
 | ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
@@ -55,7 +55,7 @@
 | [49](https://projecteuler.net/problem=49) | Prime permutations |  |
 | [50](https://projecteuler.net/problem=50) | Consecutive prime sum |  |
 
-## 51..100
+### 51..100
 
 | ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
