@@ -173,9 +173,9 @@
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | [351](https://projecteuler.net/problem=351) | Hexagonal orchards |  |
 | [361](https://projecteuler.net/problem=361) |  |  |
-| [371](https://projecteuler.net/problem=361) |  |  |
-| [381](https://projecteuler.net/problem=361) |  |  |
-| [391](https://projecteuler.net/problem=361) |  |  |
+| [371](https://projecteuler.net/problem=371) |  |  |
+| [381](https://projecteuler.net/problem=381) |  |  |
+| [391](https://projecteuler.net/problem=391) |  |  |
 | [400](https://projecteuler.net/problem=400) |  |  |
 
 
@@ -208,6 +208,11 @@
 | ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | [501](https://projecteuler.net/problem=501) | Eight Divisors |  |
+| [511](https://projecteuler.net/problem=511) |  |  |
+| [521](https://projecteuler.net/problem=521) |  |  |
+| [531](https://projecteuler.net/problem=531) |  |  |
+| [541](https://projecteuler.net/problem=541) |  |  |
+| [550](https://projecteuler.net/problem=550) |  |  |
 
 
 ### 551..600
