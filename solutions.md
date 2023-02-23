@@ -231,7 +231,7 @@
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | [401](https://projecteuler.net/problem=401) | Sum of squares of divisors |  |
 | [411](https://projecteuler.net/problem=411) |  |  |
-| [421](https://projecteuler.net/problem=421) |  |  |
+| [421](https://projecteuler.net/problem=421) | Prime factors of <var>n</var><sup>15</sup>+1 |  |
 | [431](https://projecteuler.net/problem=431) |  |  |
 | [441](https://projecteuler.net/problem=441) |  |  |
 | [450](https://projecteuler.net/problem=450) |  |  |
