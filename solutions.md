@@ -115,6 +115,15 @@
 | ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | [101](https://projecteuler.net/problem=101) | Optimum polynomial |  |
+| [102](https://projecteuler.net/problem=102) |  |  |
+| [103](https://projecteuler.net/problem=103) |  |  |
+| [104](https://projecteuler.net/problem=104) |  |  |
+| [105](https://projecteuler.net/problem=105) |  |  |
+| [106](https://projecteuler.net/problem=106) |  |  |
+| [107](https://projecteuler.net/problem=107) |  |  |
+| [108](https://projecteuler.net/problem=108) |  |  |
+| [109](https://projecteuler.net/problem=109) |  |  |
+| [110](https://projecteuler.net/problem=110) |  |  |
 | [111](https://projecteuler.net/problem=111) | Primes with runs |  |
 | [121](https://projecteuler.net/problem=121) | Disc game prize fund |  |
 | [131](https://projecteuler.net/problem=131) | Prime cube partnership |  |
