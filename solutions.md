@@ -214,7 +214,11 @@
 | ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | [651](https://projecteuler.net/problem=651) | Patterned Cylinders |  |
-
+| [661](https://projecteuler.net/problem=651) |  |  |
+| [671](https://projecteuler.net/problem=651) |  |  |
+| [681](https://projecteuler.net/problem=651) |  |  |
+| [691](https://projecteuler.net/problem=651) |  |  |
+| [700](https://projecteuler.net/problem=700) |  |  |
 
 ### 701..750
 
