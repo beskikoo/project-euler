@@ -138,6 +138,11 @@
 | ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | [201](https://projecteuler.net/problem=201) | Subsets with a unique sum |  |
+| [211](https://projecteuler.net/problem=211) |  |  |
+| [221](https://projecteuler.net/problem=221) |  |  |
+| [231](https://projecteuler.net/problem=231) |  |  |
+| [241](https://projecteuler.net/problem=241) |  |  |
+| [250](https://projecteuler.net/problem=250) |  |  |
 
 
 ### 251..300
@@ -145,13 +150,18 @@
 | ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | [251](https://projecteuler.net/problem=251) | Cardano Triplets |  |
-
+| [261](https://projecteuler.net/problem=261) |  |  |
+| [271](https://projecteuler.net/problem=271) |  |  |
+| [281](https://projecteuler.net/problem=281) |  |  |
+| [291](https://projecteuler.net/problem=291) |  |  |
+| [300](https://projecteuler.net/problem=300) |  |  |
 
 ### 301..350
 
 | ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | [301](https://projecteuler.net/problem=301) | Nim |  |
+| [311](https://projecteuler.net/problem=311) |  |  |
 
 
 ### 351..400
