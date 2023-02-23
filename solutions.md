@@ -184,7 +184,7 @@
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | [201](https://projecteuler.net/problem=201) | Subsets with a unique sum |  |
 | [211](https://projecteuler.net/problem=211) |  |  |
-| [216](https://projecteuler.net/problem=216) | Investigating the primality of numbers of the form 2<var>n</var><sup>2</sup>-1 with <var>n</var> |  |
+| [216](https://projecteuler.net/problem=216) | Investigating the primality of numbers of the form 2<var>n</var><sup>2</sup>-1 |  |
 | [221](https://projecteuler.net/problem=221) |  |  |
 | [231](https://projecteuler.net/problem=231) |  |  |
 | [241](https://projecteuler.net/problem=241) |  |  |
