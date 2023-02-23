@@ -135,7 +135,7 @@
 
 | ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| [251](https://projecteuler.net/problem=251) |  |  |
+| [251](https://projecteuler.net/problem=251) | Cardano Triplets |  |
 
 
 ### 301..350
@@ -149,7 +149,7 @@
 
 | ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| [351](https://projecteuler.net/problem=351) |  |  |
+| [351](https://projecteuler.net/problem=351) | Hexagonal orchards |  |
 
 
 ### 401..450
@@ -163,7 +163,7 @@
 
 | ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| [451](https://projecteuler.net/problem=451) |  |  |
+| [451](https://projecteuler.net/problem=451) | Modular inverses |  |
 
 
 ### 501..550
@@ -177,7 +177,7 @@
 
 | ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| [551](https://projecteuler.net/problem=551) |  |  |
+| [551](https://projecteuler.net/problem=551) | Sum of digits sequence |  |
 
 
 ### 601..650
@@ -191,7 +191,7 @@
 
 | ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| [651](https://projecteuler.net/problem=651) |  |  |
+| [651](https://projecteuler.net/problem=651) | Patterned Cylinders |  |
 
 
 ### 701..750
@@ -205,7 +205,7 @@
 
 | ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| [751](https://projecteuler.net/problem=751) |  |  |
+| [751](https://projecteuler.net/problem=751) | Concatenation Coincidence |  |
 | [752](https://projecteuler.net/problem=752) |  |  |
 | [753](https://projecteuler.net/problem=753) |  |  |
 | [754](https://projecteuler.net/problem=754) |  |  |
