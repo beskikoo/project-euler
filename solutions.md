@@ -108,7 +108,12 @@
 | [99](https://projecteuler.net/problem=99) |  |  |
 | [100](https://projecteuler.net/problem=100) |  |  |
 
+
 | ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | [776](https://projecteuler.net/problem=776) | Digit Sum Division |  |
+
+
+| ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
+|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | [804](https://projecteuler.net/problem=804) | Counting Binary Quadratic Representations |  |
