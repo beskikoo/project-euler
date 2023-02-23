@@ -221,8 +221,11 @@
 | ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | [701](https://projecteuler.net/problem=701) | Random connected area |  |
-| [711](https://projecteuler.net/problem=701) |  |  |
-
+| [711](https://projecteuler.net/problem=711) |  |  |
+| [721](https://projecteuler.net/problem=721) |  |  |
+| [731](https://projecteuler.net/problem=731) |  |  |
+| [741](https://projecteuler.net/problem=741) |  |  |
+| [750](https://projecteuler.net/problem=750) |  |  |
 
 ### 751..800
 
