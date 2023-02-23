@@ -137,7 +137,7 @@
 
 | ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| [801](https://projecteuler.net/problem=801) |  |  |
+| [801](https://projecteuler.net/problem=801) | $x^y\equiv y^x$ |  |
 | [802](https://projecteuler.net/problem=802) | Iterated Composition |  |
 | [803](https://projecteuler.net/problem=803) | Pseudorandom sequence |  |
 | [804](https://projecteuler.net/problem=804) | Counting Binary Quadratic Representations |  |
