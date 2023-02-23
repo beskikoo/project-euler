@@ -96,8 +96,17 @@
 | [87](https://projecteuler.net/problem=87) |  |  |
 | [88](https://projecteuler.net/problem=88) |  |  |
 | [89](https://projecteuler.net/problem=89) |  |  |
-
+| [90](https://projecteuler.net/problem=90) |  |  |
+| [90](https://projecteuler.net/problem=90) |  |  |
+| [90](https://projecteuler.net/problem=90) |  |  |
+| [90](https://projecteuler.net/problem=90) |  |  |
+| [90](https://projecteuler.net/problem=90) |  |  |
+| [90](https://projecteuler.net/problem=90) |  |  |
+| [90](https://projecteuler.net/problem=90) |  |  |
+| [90](https://projecteuler.net/problem=90) |  |  |
+| [90](https://projecteuler.net/problem=90) |  |  |
 | [99](https://projecteuler.net/problem=99) |  |  |
+| [100](https://projecteuler.net/problem=100) |  |  |
 
 | ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
