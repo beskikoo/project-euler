@@ -294,6 +294,7 @@
 | [661](https://projecteuler.net/problem=661) |  |  |
 | [671](https://projecteuler.net/problem=671) |  |  |
 | [674](https://projecteuler.net/problem=674) | Solving $\mathcal{I}$-equations |  |
+| [675](https://projecteuler.net/problem=675) | $2^{\omega(n)}$ |  |
 | [681](https://projecteuler.net/problem=681) |  |  |
 | [691](https://projecteuler.net/problem=691) |  |  |
 | [700](https://projecteuler.net/problem=700) |  |  |
