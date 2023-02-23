@@ -81,5 +81,8 @@
 | [77](https://projecteuler.net/problem=77) | Prime summations |  |
 | [78](https://projecteuler.net/problem=78) | Coin partitions |  |
 | [79](https://projecteuler.net/problem=79) | Passcode derivation |  |
+
+| ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
+|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | [776](https://projecteuler.net/problem=776) | Digit Sum Division |  |
 | [804](https://projecteuler.net/problem=804) | Counting Binary Quadratic Representations |  |
