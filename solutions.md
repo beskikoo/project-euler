@@ -234,8 +234,8 @@
 | [768](https://projecteuler.net/problem=768) | Chandelier |  |
 | [769](https://projecteuler.net/problem=769) | Binary Quadratic Form II |  |
 | [770](https://projecteuler.net/problem=770) | Delphi Flip |  |
-| [771](https://projecteuler.net/problem=771) |  |  |
-| [772](https://projecteuler.net/problem=772) |  |  |
+| [771](https://projecteuler.net/problem=771) | Pseudo Geometric Sequences |  |
+| [772](https://projecteuler.net/problem=772) | Balanceable $k$-bounded partitions |  |
 | [773](https://projecteuler.net/problem=773) |  |  |
 | [774](https://projecteuler.net/problem=774) |  |  |
 | [775](https://projecteuler.net/problem=775) |  |  |
