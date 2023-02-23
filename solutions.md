@@ -120,6 +120,9 @@
 
 | ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+| [151](https://projecteuler.net/problem=151) | Paper sheets of standard sizes: an expected-value problem |  |
+
+
 
 ### 201..250
 
