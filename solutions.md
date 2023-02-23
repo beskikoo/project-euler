@@ -215,7 +215,7 @@
 | ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | [751](https://projecteuler.net/problem=751) | Concatenation Coincidence |  |
-| [752](https://projecteuler.net/problem=752) |  |  |
+| [752](https://projecteuler.net/problem=752) | Powers of $(1+\sqrt 7)$ |  |
 | [753](https://projecteuler.net/problem=753) |  |  |
 | [754](https://projecteuler.net/problem=754) |  |  |
 | [755](https://projecteuler.net/problem=755) |  |  |
