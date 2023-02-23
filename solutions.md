@@ -111,6 +111,19 @@
 
 | ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+| [101](https://projecteuler.net/problem=101) | Optimum polynomial |  |
+
+
+| ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
+|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+
+
+| ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
+|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+| [201](https://projecteuler.net/problem=201) | Subsets with a unique sum |  |
+
+| ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
+|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | [776](https://projecteuler.net/problem=776) | Digit Sum Division |  |
 
 
