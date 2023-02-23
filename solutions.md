@@ -115,13 +115,13 @@
 | ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | [101](https://projecteuler.net/problem=101) | Optimum polynomial |  |
-| [111](https://projecteuler.net/problem=111) |  |  |
-| [121](https://projecteuler.net/problem=121) |  |  |
-| [131](https://projecteuler.net/problem=131) |  |  |
-| [141](https://projecteuler.net/problem=141) |  |  |
-| [150](https://projecteuler.net/problem=150) |  |  |
+| [111](https://projecteuler.net/problem=111) | Primes with runs |  |
+| [121](https://projecteuler.net/problem=121) | Disc game prize fund |  |
+| [131](https://projecteuler.net/problem=131) | Prime cube partnership |  |
+| [141](https://projecteuler.net/problem=141) | Investigating progressive numbers, n, which are also square |  |
+| [150](https://projecteuler.net/problem=150) | Searching a triangular array for a sub-triangle having minimum-sum |  |
 
-### 151..200
+### 151..200Prime cube partnership
 
 | ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
