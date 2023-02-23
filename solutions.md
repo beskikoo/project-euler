@@ -281,6 +281,7 @@
 | [611](https://projecteuler.net/problem=611) |  |  |
 | [621](https://projecteuler.net/problem=621) |  |  |
 | [631](https://projecteuler.net/problem=631) |  |  |
+| [634](https://projecteuler.net/problem=634) | Numbers of the form $a^2b^3$ |  |
 | [641](https://projecteuler.net/problem=641) |  |  |
 | [650](https://projecteuler.net/problem=650) |  |  |
 
