@@ -293,6 +293,7 @@
 | [651](https://projecteuler.net/problem=651) | Patterned Cylinders |  |
 | [661](https://projecteuler.net/problem=661) |  |  |
 | [671](https://projecteuler.net/problem=671) |  |  |
+| [674](https://projecteuler.net/problem=674) | Solving $\mathcal{I}$-equations |  |
 | [681](https://projecteuler.net/problem=681) |  |  |
 | [691](https://projecteuler.net/problem=691) |  |  |
 | [700](https://projecteuler.net/problem=700) |  |  |
