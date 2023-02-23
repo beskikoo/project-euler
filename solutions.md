@@ -138,46 +138,23 @@
 | ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | [801](https://projecteuler.net/problem=801) |  |  |
-| [802](https://projecteuler.net/problem=802) |  |  |
-| [803](https://projecteuler.net/problem=803) |  |  |
+| [802](https://projecteuler.net/problem=802) | Iterated Composition |  |
+| [803](https://projecteuler.net/problem=803) | Pseudorandom sequence |  |
 | [804](https://projecteuler.net/problem=804) | Counting Binary Quadratic Representations |  |
-| [805](https://projecteuler.net/problem=805) |  |  |
-| [80](https://projecteuler.net/problem=80) |  |  |
-| [80](https://projecteuler.net/problem=80) |  |  |
-| [80](https://projecteuler.net/problem=80) |  |  |
-| [80](https://projecteuler.net/problem=80) |  |  |
-| [80](https://projecteuler.net/problem=80) |  |  |
-
-| [80](https://projecteuler.net/problem=80) |  |  |
-| [80](https://projecteuler.net/problem=80) |  |  |
-| [80](https://projecteuler.net/problem=80) |  |  |
-| [80](https://projecteuler.net/problem=80) |  |  |
-| [80](https://projecteuler.net/problem=80) |  |  |
-| [80](https://projecteuler.net/problem=80) |  |  |
-| [80](https://projecteuler.net/problem=80) |  |  |
-| [80](https://projecteuler.net/problem=80) |  |  |
-| [80](https://projecteuler.net/problem=80) |  |  |
-| [80](https://projecteuler.net/problem=80) |  |  |
-
-| [80](https://projecteuler.net/problem=80) |  |  |
-| [80](https://projecteuler.net/problem=80) |  |  |
-| [80](https://projecteuler.net/problem=80) |  |  |
-| [80](https://projecteuler.net/problem=80) |  |  |
-| [80](https://projecteuler.net/problem=80) |  |  |
-| [80](https://projecteuler.net/problem=80) |  |  |
-| [80](https://projecteuler.net/problem=80) |  |  |
-| [80](https://projecteuler.net/problem=80) |  |  |
-| [80](https://projecteuler.net/problem=80) |  |  |
-| [80](https://projecteuler.net/problem=80) |  |  |
-
-| [80](https://projecteuler.net/problem=80) |  |  |
-| [80](https://projecteuler.net/problem=80) |  |  |
-| [80](https://projecteuler.net/problem=80) |  |  |
-| [80](https://projecteuler.net/problem=80) |  |  |
-| [80](https://projecteuler.net/problem=80) |  |  |
-| [80](https://projecteuler.net/problem=80) |  |  |
-| [80](https://projecteuler.net/problem=80) |  |  |
-| [80](https://projecteuler.net/problem=80) |  |  |
-| [80](https://projecteuler.net/problem=80) |  |  |
-| [80](https://projecteuler.net/problem=80) |  |  |
+| [805](https://projecteuler.net/problem=805) | Shifted Multiples |  |
+| [806](https://projecteuler.net/problem=806) | Nim on Towers of Hanoi |  |
+| [807](https://projecteuler.net/problem=807) | Loops of Ropes |  |
+| [808](https://projecteuler.net/problem=808) | Reversible prime squares |  |
+| [809](https://projecteuler.net/problem=809) | Rational Recurrence Relation |  |
+| [810](https://projecteuler.net/problem=810) | XOR-Primes |  |
+| [811](https://projecteuler.net/problem=811) | Bitwise Recursion |  |
+| [812](https://projecteuler.net/problem=812) | Dynamical Polynomials |  |
+| [813](https://projecteuler.net/problem=813) | XOR-Powers |  |
+| [814](https://projecteuler.net/problem=814) | Mezzo-forte |  |
+| [815](https://projecteuler.net/problem=815) | Group by Value |  |
+| [816](https://projecteuler.net/problem=816) | Shortest distance among points |  |
+| [817](https://projecteuler.net/problem=817) | Digits in Squares |  |
+| [818](https://projecteuler.net/problem=818) | SET |  |
+| [819](https://projecteuler.net/problem=819) | Iterative Sampling |  |
+| [820](https://projecteuler.net/problem=820) | N<sup>th</sup> digit of Reciprocals |  |
 
