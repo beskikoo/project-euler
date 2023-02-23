@@ -51,10 +51,10 @@
 | [47](https://projecteuler.net/problem=47) | Distinct primes factors |  |
 | [48](https://projecteuler.net/problem=48) | Self powers | [q0048.d](https://github.com/menjaraz-org/project-euler/blob/main/dlang/q0048.d) |
 | [49](https://projecteuler.net/problem=49) | Prime permutations |  |
+| [50](https://projecteuler.net/problem=50) | Consecutive prime sum |  |
 
 | ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| [50](https://projecteuler.net/problem=50) | Consecutive prime sum |  |
 | [51](https://projecteuler.net/problem=51) | Prime digit replacements |  |
 | [52](https://projecteuler.net/problem=52) | Permuted multiples |  |
 | [53](https://projecteuler.net/problem=53) | Combinatoric selections |  |
