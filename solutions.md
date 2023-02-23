@@ -154,7 +154,7 @@
 | [138](https://projecteuler.net/problem=138) |  |  |
 | [139](https://projecteuler.net/problem=139) |  |  |
 | [140](https://projecteuler.net/problem=140) |  |  |
-| [141](https://projecteuler.net/problem=141) | Investigating progressive numbers, n, which are also square |  |
+| [141](https://projecteuler.net/problem=141) | Investigating progressive numbers, <i>n</n>, which are also square |  |
 | [142](https://projecteuler.net/problem=142) |  |  |
 | [143](https://projecteuler.net/problem=143) |  |  |
 | [144](https://projecteuler.net/problem=144) |  |  |
