@@ -72,5 +72,14 @@
 | [68](https://projecteuler.net/problem=68) | Magic 5-gon ring |  |
 | [69](https://projecteuler.net/problem=69) | Totient maximum |  |
 | [70](https://projecteuler.net/problem=70) | Totient permutation |  |
+| [71](https://projecteuler.net/problem=71) | Ordered fractions |  |
+| [72](https://projecteuler.net/problem=72) |  |  |
+| [73](https://projecteuler.net/problem=73) |  |  |
+| [74](https://projecteuler.net/problem=74) |  |  |
+| [75](https://projecteuler.net/problem=75) |  |  |
+| [76](https://projecteuler.net/problem=76) |  |  |
+| [77](https://projecteuler.net/problem=77) |  |  |
+| [78](https://projecteuler.net/problem=78) |  |  |
+| [79](https://projecteuler.net/problem=79) |  |  |
 | [776](https://projecteuler.net/problem=776) | Digit Sum Division |  |
 | [804](https://projecteuler.net/problem=804) | Counting Binary Quadratic Representations |  |
