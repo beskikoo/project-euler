@@ -115,6 +115,11 @@
 | ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | [101](https://projecteuler.net/problem=101) | Optimum polynomial |  |
+| [111](https://projecteuler.net/problem=111) |  |  |
+| [121](https://projecteuler.net/problem=121) |  |  |
+| [131](https://projecteuler.net/problem=131) |  |  |
+| [141](https://projecteuler.net/problem=141) |  |  |
+| [150](https://projecteuler.net/problem=150) |  |  |
 
 ### 151..200
 
