@@ -172,6 +172,11 @@
 | ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | [351](https://projecteuler.net/problem=351) | Hexagonal orchards |  |
+| [361](https://projecteuler.net/problem=361) |  |  |
+| [361](https://projecteuler.net/problem=361) |  |  |
+| [361](https://projecteuler.net/problem=361) |  |  |
+| [361](https://projecteuler.net/problem=361) |  |  |
+| [400](https://projecteuler.net/problem=400) |  |  |
 
 
 ### 401..450
