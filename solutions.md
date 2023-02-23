@@ -173,9 +173,9 @@
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | [351](https://projecteuler.net/problem=351) | Hexagonal orchards |  |
 | [361](https://projecteuler.net/problem=361) |  |  |
-| [361](https://projecteuler.net/problem=361) |  |  |
-| [361](https://projecteuler.net/problem=361) |  |  |
-| [361](https://projecteuler.net/problem=361) |  |  |
+| [371](https://projecteuler.net/problem=361) |  |  |
+| [381](https://projecteuler.net/problem=361) |  |  |
+| [391](https://projecteuler.net/problem=361) |  |  |
 | [400](https://projecteuler.net/problem=400) |  |  |
 
 
@@ -184,6 +184,11 @@
 | ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | [401](https://projecteuler.net/problem=401) | Sum of squares of divisors |  |
+| [411](https://projecteuler.net/problem=411) |  |  |
+| [421](https://projecteuler.net/problem=421) |  |  |
+| [431](https://projecteuler.net/problem=431) |  |  |
+| [441](https://projecteuler.net/problem=441) |  |  |
+| [450](https://projecteuler.net/problem=450) |  |  |
 
 
 ### 451..500
@@ -191,6 +196,11 @@
 | ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | [451](https://projecteuler.net/problem=451) | Modular inverses |  |
+| [461](https://projecteuler.net/problem=461) |  |  |
+| [471](https://projecteuler.net/problem=471) |  |  |
+| [481](https://projecteuler.net/problem=481) |  |  |
+| [491](https://projecteuler.net/problem=491) |  |  |
+| [500](https://projecteuler.net/problem=500) |  |  |
 
 
 ### 501..550
