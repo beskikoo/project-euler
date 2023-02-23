@@ -250,9 +250,9 @@
 | [784](https://projecteuler.net/problem=784) | Reciprocal Pairs |  |
 | [785](https://projecteuler.net/problem=785) | Symmetric Diophantine equation |  |
 | [786](https://projecteuler.net/problem=786) | Billiard |  |
-| [787](https://projecteuler.net/problem=787) |  |  |
-| [788](https://projecteuler.net/problem=788) |  |  |
-| [789](https://projecteuler.net/problem=789) |  |  |
+| [787](https://projecteuler.net/problem=787) | Bézout's Game |  |
+| [788](https://projecteuler.net/problem=788) | Dominating Numbers |  |
+| [789](https://projecteuler.net/problem=789) | Minimal pairing modulo $p$ |  |
 | [790](https://projecteuler.net/problem=790) |  |  |
 | [791](https://projecteuler.net/problem=791) |  |  |
 | [792](https://projecteuler.net/problem=792) |  |  |
