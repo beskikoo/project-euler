@@ -141,3 +141,43 @@
 | [802](https://projecteuler.net/problem=802) |  |  |
 | [803](https://projecteuler.net/problem=803) |  |  |
 | [804](https://projecteuler.net/problem=804) | Counting Binary Quadratic Representations |  |
+| [805](https://projecteuler.net/problem=805) |  |  |
+| [80](https://projecteuler.net/problem=80) |  |  |
+| [80](https://projecteuler.net/problem=80) |  |  |
+| [80](https://projecteuler.net/problem=80) |  |  |
+| [80](https://projecteuler.net/problem=80) |  |  |
+| [80](https://projecteuler.net/problem=80) |  |  |
+
+| [80](https://projecteuler.net/problem=80) |  |  |
+| [80](https://projecteuler.net/problem=80) |  |  |
+| [80](https://projecteuler.net/problem=80) |  |  |
+| [80](https://projecteuler.net/problem=80) |  |  |
+| [80](https://projecteuler.net/problem=80) |  |  |
+| [80](https://projecteuler.net/problem=80) |  |  |
+| [80](https://projecteuler.net/problem=80) |  |  |
+| [80](https://projecteuler.net/problem=80) |  |  |
+| [80](https://projecteuler.net/problem=80) |  |  |
+| [80](https://projecteuler.net/problem=80) |  |  |
+
+| [80](https://projecteuler.net/problem=80) |  |  |
+| [80](https://projecteuler.net/problem=80) |  |  |
+| [80](https://projecteuler.net/problem=80) |  |  |
+| [80](https://projecteuler.net/problem=80) |  |  |
+| [80](https://projecteuler.net/problem=80) |  |  |
+| [80](https://projecteuler.net/problem=80) |  |  |
+| [80](https://projecteuler.net/problem=80) |  |  |
+| [80](https://projecteuler.net/problem=80) |  |  |
+| [80](https://projecteuler.net/problem=80) |  |  |
+| [80](https://projecteuler.net/problem=80) |  |  |
+
+| [80](https://projecteuler.net/problem=80) |  |  |
+| [80](https://projecteuler.net/problem=80) |  |  |
+| [80](https://projecteuler.net/problem=80) |  |  |
+| [80](https://projecteuler.net/problem=80) |  |  |
+| [80](https://projecteuler.net/problem=80) |  |  |
+| [80](https://projecteuler.net/problem=80) |  |  |
+| [80](https://projecteuler.net/problem=80) |  |  |
+| [80](https://projecteuler.net/problem=80) |  |  |
+| [80](https://projecteuler.net/problem=80) |  |  |
+| [80](https://projecteuler.net/problem=80) |  |  |
+
