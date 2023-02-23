@@ -259,11 +259,11 @@
 | [793](https://projecteuler.net/problem=793) | Median of Products |  |
 | [794](https://projecteuler.net/problem=794) | Seventeen Points |  |
 | [795](https://projecteuler.net/problem=795) | Alternating GCD Sum |  |
-| [796](https://projecteuler.net/problem=796) |  |  |
-| [797](https://projecteuler.net/problem=797) |  |  |
-| [798](https://projecteuler.net/problem=798) |  |  |
-| [799](https://projecteuler.net/problem=799) |  |  |
-| [800](https://projecteuler.net/problem=800) |  |  |
+| [796](https://projecteuler.net/problem=796) | A Grand Shuffle |  |
+| [797](https://projecteuler.net/problem=797) | Cyclogenic Polynomials |  |
+| [798](https://projecteuler.net/problem=798) | Card Stacking Game |  |
+| [799](https://projecteuler.net/problem=799) | Pentagonal Puzzle |  |
+| [800](https://projecteuler.net/problem=800) | Hybrid Integers |  |
 
 
 ### 801..850
