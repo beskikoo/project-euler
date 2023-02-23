@@ -202,6 +202,27 @@
 
 | ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+| [751](https://projecteuler.net/problem=751) |  |  |
+| [752](https://projecteuler.net/problem=752) |  |  |
+| [753](https://projecteuler.net/problem=753) |  |  |
+| [754](https://projecteuler.net/problem=754) |  |  |
+| [755](https://projecteuler.net/problem=755) |  |  |
+| [756](https://projecteuler.net/problem=756) |  |  |
+| [757](https://projecteuler.net/problem=757) |  |  |
+| [758](https://projecteuler.net/problem=758) |  |  |
+| [759](https://projecteuler.net/problem=759) |  |  |
+| [760](https://projecteuler.net/problem=760) |  |  |
+| [761](https://projecteuler.net/problem=761) |  |  |
+| [762](https://projecteuler.net/problem=762) |  |  |
+| [763](https://projecteuler.net/problem=763) |  |  |
+| [764](https://projecteuler.net/problem=764) |  |  |
+| [765](https://projecteuler.net/problem=765) |  |  |
+| [766](https://projecteuler.net/problem=766) |  |  |
+| [767](https://projecteuler.net/problem=767) |  |  |
+| [768](https://projecteuler.net/problem=768) |  |  |
+| [769](https://projecteuler.net/problem=769) |  |  |
+| [770](https://projecteuler.net/problem=770) |  |  |
+
 | [776](https://projecteuler.net/problem=776) | Digit Sum Division |  |
 
 ### 801..850
