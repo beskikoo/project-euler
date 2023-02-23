@@ -276,6 +276,11 @@
 | ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | [601](https://projecteuler.net/problem=601) | Divisibility streaks |  |
+| [611](https://projecteuler.net/problem=611) |  |  |
+| [621](https://projecteuler.net/problem=621) |  |  |
+| [631](https://projecteuler.net/problem=631) |  |  |
+| [641](https://projecteuler.net/problem=641) |  |  |
+| [650](https://projecteuler.net/problem=650) |  |  |
 
 
 ### 651..700
