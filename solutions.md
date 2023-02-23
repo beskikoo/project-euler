@@ -126,11 +126,11 @@
 | ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | [151](https://projecteuler.net/problem=151) | Paper sheets of standard sizes: an expected-value problem |  |
-| [161](https://projecteuler.net/problem=161) |  |  |
-| [171](https://projecteuler.net/problem=171) |  |  |
-| [181](https://projecteuler.net/problem=181) |  |  |
-| [191](https://projecteuler.net/problem=191) |  |  |
-| [200](https://projecteuler.net/problem=200) |  |  |
+| [161](https://projecteuler.net/problem=161) | Triominoes |  |
+| [171](https://projecteuler.net/problem=171) | Finding numbers for which the sum of the squares of the digits is a square |  |
+| [181](https://projecteuler.net/problem=181) | Investigating in how many ways objects of two different colours can be grouped |  |
+| [191](https://projecteuler.net/problem=191) | Prize Strings |  |
+| [200](https://projecteuler.net/problem=200) | Find the 200th prime-proof sqube containing the contiguous sub-string "200" |  |
 
 
 ### 201..250
