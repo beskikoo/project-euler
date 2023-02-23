@@ -246,10 +246,10 @@
 | [780](https://projecteuler.net/problem=780) | Toriangulations |  |
 | [781](https://projecteuler.net/problem=781) | Feynman Diagrams |  |
 | [782](https://projecteuler.net/problem=782) | Distinct Rows and Columns |  |
-| [783](https://projecteuler.net/problem=783) |  |  |
-| [784](https://projecteuler.net/problem=784) |  |  |
-| [785](https://projecteuler.net/problem=785) |  |  |
-| [786](https://projecteuler.net/problem=786) |  |  |
+| [783](https://projecteuler.net/problem=783) | Urns |  |
+| [784](https://projecteuler.net/problem=784) | Reciprocal Pairs |  |
+| [785](https://projecteuler.net/problem=785) | Symmetric Diophantine equation |  |
+| [786](https://projecteuler.net/problem=786) | Billiard |  |
 | [787](https://projecteuler.net/problem=787) |  |  |
 | [788](https://projecteuler.net/problem=788) |  |  |
 | [789](https://projecteuler.net/problem=789) |  |  |
