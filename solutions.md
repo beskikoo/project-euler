@@ -1,5 +1,7 @@
 # Solution List
 
+## 1..50
+
 | ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | [1](https://projecteuler.net/problem=1)  | Multiples of 3 or 5 | [q0001.d](https://github.com/menjaraz-org/project-euler/blob/main/dlang/q0001.d) | [q0001.dpr](https://github.com/menjaraz-org/project-euler/blob/main/delphi/q0001.dpr) |
@@ -53,7 +55,7 @@
 | [49](https://projecteuler.net/problem=49) | Prime permutations |  |
 | [50](https://projecteuler.net/problem=50) | Consecutive prime sum |  |
 
-
+## 51..100
 
 | ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
@@ -108,25 +110,34 @@
 | [99](https://projecteuler.net/problem=99) |  |  |
 | [100](https://projecteuler.net/problem=100) |  |  |
 
+## 101..150
 
 | ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | [101](https://projecteuler.net/problem=101) | Optimum polynomial |  |
 
+## 151..200
 
 | ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 
+## 201..250
 
 | ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | [201](https://projecteuler.net/problem=201) | Subsets with a unique sum |  |
 
+# 751..800
+
 | ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | [776](https://projecteuler.net/problem=776) | Digit Sum Division |  |
 
+## 801..850
 
 | ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+| [801](https://projecteuler.net/problem=801) |  |  |
+| [802](https://projecteuler.net/problem=802) |  |  |
+| [803](https://projecteuler.net/problem=803) |  |  |
 | [804](https://projecteuler.net/problem=804) | Counting Binary Quadratic Representations |  |
