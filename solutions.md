@@ -142,7 +142,7 @@
 
 | ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| [301](https://projecteuler.net/problem=301) |  |  |
+| [301](https://projecteuler.net/problem=301) | Nim |  |
 
 
 ### 351..400
@@ -156,7 +156,7 @@
 
 | ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| [401](https://projecteuler.net/problem=401) |  |  |
+| [401](https://projecteuler.net/problem=401) | Sum of squares of divisors |  |
 
 
 ### 451..500
@@ -170,7 +170,7 @@
 
 | ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| [501](https://projecteuler.net/problem=501) |  |  |
+| [501](https://projecteuler.net/problem=501) | Eight Divisors |  |
 
 
 ### 551..600
@@ -184,7 +184,7 @@
 
 | ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| [601](https://projecteuler.net/problem=601) |  |  |
+| [601](https://projecteuler.net/problem=601) | Divisibility streaks |  |
 
 
 ### 651..700
@@ -198,7 +198,7 @@
 
 | ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| [701](https://projecteuler.net/problem=701) |  |  |
+| [701](https://projecteuler.net/problem=701) | Random connected area |  |
 
 
 ### 751..800
