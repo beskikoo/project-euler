@@ -222,8 +222,37 @@
 | [768](https://projecteuler.net/problem=768) |  |  |
 | [769](https://projecteuler.net/problem=769) |  |  |
 | [770](https://projecteuler.net/problem=770) |  |  |
-
+| [771](https://projecteuler.net/problem=770) |  |  |
+| [772](https://projecteuler.net/problem=770) |  |  |
+| [773](https://projecteuler.net/problem=770) |  |  |
+| [774](https://projecteuler.net/problem=770) |  |  |
+| [775](https://projecteuler.net/problem=770) |  |  |
 | [776](https://projecteuler.net/problem=776) | Digit Sum Division |  |
+| [777](https://projecteuler.net/problem=777) |  |  |
+| [778](https://projecteuler.net/problem=778) |  |  |
+| [779](https://projecteuler.net/problem=779) |  |  |
+| [780](https://projecteuler.net/problem=780) |  |  |
+| [781](https://projecteuler.net/problem=781) |  |  |
+| [782](https://projecteuler.net/problem=782) |  |  |
+| [783](https://projecteuler.net/problem=783) |  |  |
+| [784](https://projecteuler.net/problem=784) |  |  |
+| [785](https://projecteuler.net/problem=785) |  |  |
+| [786](https://projecteuler.net/problem=786) |  |  |
+| [787](https://projecteuler.net/problem=787) |  |  |
+| [788](https://projecteuler.net/problem=788) |  |  |
+| [789](https://projecteuler.net/problem=789) |  |  |
+| [790](https://projecteuler.net/problem=790) |  |  |
+| [791](https://projecteuler.net/problem=791) |  |  |
+| [792](https://projecteuler.net/problem=792) |  |  |
+| [793](https://projecteuler.net/problem=793) |  |  |
+| [794](https://projecteuler.net/problem=794) |  |  |
+| [795](https://projecteuler.net/problem=795) |  |  |
+| [796](https://projecteuler.net/problem=796) |  |  |
+| [797](https://projecteuler.net/problem=797) |  |  |
+| [798](https://projecteuler.net/problem=798) |  |  |
+| [799](https://projecteuler.net/problem=799) |  |  |
+| [800](https://projecteuler.net/problem=800) |  |  |
+
 
 ### 801..850
 
