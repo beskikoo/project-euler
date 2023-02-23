@@ -121,12 +121,16 @@
 | [141](https://projecteuler.net/problem=141) | Investigating progressive numbers, n, which are also square |  |
 | [150](https://projecteuler.net/problem=150) | Searching a triangular array for a sub-triangle having minimum-sum |  |
 
-### 151..200Prime cube partnership
+### 151..200
 
 | ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | [151](https://projecteuler.net/problem=151) | Paper sheets of standard sizes: an expected-value problem |  |
-
+| [161](https://projecteuler.net/problem=161) |  |  |
+| [171](https://projecteuler.net/problem=171) |  |  |
+| [181](https://projecteuler.net/problem=181) |  |  |
+| [191](https://projecteuler.net/problem=191) |  |  |
+| [200](https://projecteuler.net/problem=200) |  |  |
 
 
 ### 201..250
