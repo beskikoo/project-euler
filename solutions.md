@@ -220,6 +220,11 @@
 | ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | [551](https://projecteuler.net/problem=551) | Sum of digits sequence |  |
+| [561](https://projecteuler.net/problem=551) |  |  |
+| [571](https://projecteuler.net/problem=551) |  |  |
+| [581](https://projecteuler.net/problem=551) |  |  |
+| [591](https://projecteuler.net/problem=551) |  |  |
+| [600](https://projecteuler.net/problem=600) |  |  |
 
 
 ### 601..650
