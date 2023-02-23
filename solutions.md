@@ -127,6 +127,77 @@
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | [201](https://projecteuler.net/problem=201) | Subsets with a unique sum |  |
 
+
+### 251..300
+
+| ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
+|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+| [201](https://projecteuler.net/problem=201) | Subsets with a unique sum |  |
+
+
+### 301..350
+
+| ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
+|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+| [201](https://projecteuler.net/problem=201) | Subsets with a unique sum |  |
+
+
+### 351..400
+
+| ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
+|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+| [201](https://projecteuler.net/problem=201) | Subsets with a unique sum |  |
+
+
+### 401..450
+
+| ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
+|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+| [201](https://projecteuler.net/problem=201) | Subsets with a unique sum |  |
+
+
+### 451..500
+
+| ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
+|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+| [201](https://projecteuler.net/problem=201) | Subsets with a unique sum |  |
+
+
+### 501..550
+
+| ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
+|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+| [201](https://projecteuler.net/problem=201) | Subsets with a unique sum |  |
+
+
+### 551..600
+
+| ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
+|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+| [201](https://projecteuler.net/problem=201) | Subsets with a unique sum |  |
+
+
+### 601..650
+
+| ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
+|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+| [201](https://projecteuler.net/problem=201) | Subsets with a unique sum |  |
+
+
+### 651..700
+
+| ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
+|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+| [201](https://projecteuler.net/problem=201) | Subsets with a unique sum |  |
+
+
+### 701..750
+
+| ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
+|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+| [201](https://projecteuler.net/problem=201) | Subsets with a unique sum |  |
+
+
 ### 751..800
 
 | ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
