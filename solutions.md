@@ -243,9 +243,9 @@
 | [777](https://projecteuler.net/problem=777) | Lissajous Curves |  |
 | [778](https://projecteuler.net/problem=778) | Freshman's Product |  |
 | [779](https://projecteuler.net/problem=779) | Prime Factor and Exponent |  |
-| [780](https://projecteuler.net/problem=780) |  |  |
-| [781](https://projecteuler.net/problem=781) |  |  |
-| [782](https://projecteuler.net/problem=782) |  |  |
+| [780](https://projecteuler.net/problem=780) | Toriangulations |  |
+| [781](https://projecteuler.net/problem=781) | Feynman Diagrams |  |
+| [782](https://projecteuler.net/problem=782) | Distinct Rows and Columns |  |
 | [783](https://projecteuler.net/problem=783) |  |  |
 | [784](https://projecteuler.net/problem=784) |  |  |
 | [785](https://projecteuler.net/problem=785) |  |  |
