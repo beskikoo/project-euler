@@ -162,7 +162,10 @@
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | [301](https://projecteuler.net/problem=301) | Nim |  |
 | [311](https://projecteuler.net/problem=311) |  |  |
-
+| [321](https://projecteuler.net/problem=321) |  |  |
+| [331](https://projecteuler.net/problem=331) |  |  |
+| [341](https://projecteuler.net/problem=341) |  |  |
+| [350](https://projecteuler.net/problem=350) |  |  |
 
 ### 351..400
 
