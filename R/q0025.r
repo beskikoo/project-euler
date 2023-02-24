@@ -21,8 +21,8 @@ while (nchar(as.character(b)) < 1000)  {
 	
     a <- b
     b <- c
-	
-	index <- index + 1
+    
+    index <- index + 1
 }
 
 print(index)
