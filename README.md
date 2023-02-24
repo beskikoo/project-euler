@@ -40,8 +40,9 @@ _Smart Young People_, I'm talking to **You** and if you dream of it... take noti
 Let's dive in Together... we have got a way to go, a very very long journey.
 
 - Not so short [List of solutions](solutions.md)
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+- 
+| ----- | ----- | ----- | ----- | ----- | -----  |----- | ----- | ----- | ----- |
+| ----- | ----- | ----- | ----- | ----- | -----  |----- | ----- | ----- | ----- |
 | [1..50](https://github.com/beskikoo/project-euler/blob/main/solutions.md#150) | [51..100](https://github.com/beskikoo/project-euler/blob/main/solutions.md#51100) | [101..150](https://github.com/beskikoo/project-euler/blob/main/solutions.md#101150) | [151..200](https://github.com/beskikoo/project-euler/blob/main/solutions.md#151200) | [201..250](https://github.com/beskikoo/project-euler/blob/main/solutions.md#201250) | [251..300](https://github.com/beskikoo/project-euler/blob/main/solutions.md#251300) | [301..350](https://github.com/beskikoo/project-euler/blob/main/solutions.md#301350) | [351..400](https://github.com/beskikoo/project-euler/blob/main/solutions.md#351400) | [401..450](https://github.com/beskikoo/project-euler/blob/main/solutions.md#401450) | [451..500](https://github.com/beskikoo/project-euler/blob/main/solutions.md#451500) 
 | [501..550](https://github.com/beskikoo/project-euler/blob/main/solutions.md#501550) | [551..600](https://github.com/beskikoo/project-euler/blob/main/solutions.md#551600) | [601..650](https://github.com/beskikoo/project-euler/blob/main/solutions.md#601650) | [651..700](https://github.com/beskikoo/project-euler/blob/main/solutions.md#651700) | [701..750](https://github.com/beskikoo/project-euler/blob/main/solutions.md#701750) | [751..800](https://github.com/beskikoo/project-euler/blob/main/solutions.md#751800) | [801..850](https://github.com/beskikoo/project-euler/blob/main/solutions.md#801850) |
 
