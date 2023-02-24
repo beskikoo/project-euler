@@ -11,7 +11,7 @@
  * Copyright © 2023, menjaraz
  */
 
-import std.stdio, std.range, std.bigint, std.algorithm;
+import std.stdio, std.datetime.stopwatch, std.range, std.bigint, std.algorithm;
 
 BigInt pow(in BigInt x, in BigInt y) pure {
     if (y == BigInt(0))
@@ -28,8 +28,15 @@ BigInt pow(in BigInt x, in BigInt y) pure {
 
 void main()
 {
+    StopWatch timer;
+
+    timer.start();
+    //
     auto answer = iota(BigInt(1), 1000+1).map!(a => pow(a, a)).sum.toDecimalString()[$-10..$];
-    
+    //
+    timer.stop();
+
     writeln(answer);
 
+    writefln("Elapsed time: %s milliseconds.", timer.peek.total!"msecs"());
 }
