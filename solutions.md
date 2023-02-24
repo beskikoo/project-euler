@@ -4,7 +4,7 @@
 
 | ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| [1](https://projecteuler.net/problem=1)  | Multiples of 3 or 5 | [q0001.d](https://github.com/menjaraz-org/project-euler/blob/main/dlang/q0001.d) | [q0001.dpr](https://github.com/menjaraz-org/project-euler/blob/main/delphi/q0001.dpr) |
+| [1](https://projecteuler.net/problem=1)  | Multiples of 3 or 5 | [q0001.d](https://github.com/menjaraz-org/project-euler/blob/main/dlang/q0001.d) | [q0001.dpr](https://github.com/menjaraz-org/project-euler/blob/main/delphi/q0001.dpr) | [q0001.r](https://github.com/menjaraz-org/project-euler/blob/main/R/q0001.r) |
 | [2](https://projecteuler.net/problem=2)  | Even Fibonacci numbers | [q0002.d](https://github.com/menjaraz-org/project-euler/blob/main/dlang/q0002.d) | [q0002.dpr](https://github.com/menjaraz-org/project-euler/blob/main/delphi/q0002.dpr) | [q0002.r](https://github.com/menjaraz-org/project-euler/blob/main/R/q0002.r) |
 | [3](https://projecteuler.net/problem=3)  | Largest prime factor | [q0003.d](https://github.com/menjaraz-org/project-euler/blob/main/dlang/q0003.d) | [q0003.dpr](https://github.com/menjaraz-org/project-euler/blob/main/delphi/q0003.dpr) |
 | [4](https://projecteuler.net/problem=4)  | Largest palindrome product | [q0004.d](https://github.com/menjaraz-org/project-euler/blob/main/dlang/q0004.d) | [q0004.dpr](https://github.com/menjaraz-org/project-euler/blob/main/delphi/q0004.dpr) | [q0004.r](https://github.com/menjaraz-org/project-euler/blob/main/R/q0004.r) |
