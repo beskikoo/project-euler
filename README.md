@@ -41,7 +41,6 @@ Let's dive in Together... we have got a way to go, a very very long journey.
 
 - Not so short [List of solutions](solutions.md)
 
-| ----- | ----- | ----- | ----- | ----- |
 | [1..50](https://github.com/beskikoo/project-euler/blob/main/solutions.md#150) | [51..100](https://github.com/beskikoo/project-euler/blob/main/solutions.md#51100) | [101..150](https://github.com/beskikoo/project-euler/blob/main/solutions.md#101150) | [151..200](https://github.com/beskikoo/project-euler/blob/main/solutions.md#151200) | [201..250](https://github.com/beskikoo/project-euler/blob/main/solutions.md#201250) |
 | ----- | ----- | ----- | ----- | ----- |
 | [251..300](https://github.com/beskikoo/project-euler/blob/main/solutions.md#251300) | [301..350](https://github.com/beskikoo/project-euler/blob/main/solutions.md#301350) | [351..400](https://github.com/beskikoo/project-euler/blob/main/solutions.md#351400) | [401..450](https://github.com/beskikoo/project-euler/blob/main/solutions.md#401450) | [451..500](https://github.com/beskikoo/project-euler/blob/main/solutions.md#451500) |
