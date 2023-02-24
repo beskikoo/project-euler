@@ -23,7 +23,7 @@
 | [17](https://projecteuler.net/problem=17) | Number letter counts |  |
 | [18](https://projecteuler.net/problem=18) | Maximum path sum I |  |
 | [19](https://projecteuler.net/problem=19) | Counting Sundays | [q0019.d](https://github.com/menjaraz-org/project-euler/blob/main/dlang/q0019.d) | [q0019.dpr](https://github.com/menjaraz-org/project-euler/blob/main/delphi/q0019.dpr) |
-| [20](https://projecteuler.net/problem=20) | Factorial digit sum |  |
+| [20](https://projecteuler.net/problem=20) | Factorial digit sum |  |  | [q0020.r](https://github.com/menjaraz-org/project-euler/blob/main/R/q0020.r |
 | [21](https://projecteuler.net/problem=21) | Amicable numbers |  |
 | [22](https://projecteuler.net/problem=22) | Names scores |  |
 | [23](https://projecteuler.net/problem=23) | Non-abundant sums |  |
