@@ -28,7 +28,7 @@
 | [22](https://projecteuler.net/problem=22) | Names scores |  |
 | [23](https://projecteuler.net/problem=23) | Non-abundant sums |  |
 | [24](https://projecteuler.net/problem=24) | Lexicographic permutations |  |
-| [25](https://projecteuler.net/problem=25) | 1000-digit Fibonacci number |  |
+| [25](https://projecteuler.net/problem=25) | 1000-digit Fibonacci number |  |  | [q0025.r](https://github.com/menjaraz-org/project-euler/blob/main/R/q0025.r) |
 | [26](https://projecteuler.net/problem=26) | Reciprocal cycles |  |
 | [27](https://projecteuler.net/problem=27) | Quadratic primes |  |
 | [28](https://projecteuler.net/problem=28) | Number spiral diagonals |  |
