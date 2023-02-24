@@ -37,7 +37,7 @@ _Smart Young People_, I'm talking to **You** and if you dream of it... take noti
 
 ## TL;DR
 
-Let's dive in Together... we have got a way to go, indeed a very very long journey.
+Let's dive in Together... we have got a way to go, a very very long journey.
 
 - Not so short [List of solutions](solutions.md)
 
