@@ -41,6 +41,24 @@ Let's dive in Together... we have got a way to go, a very very long journey.
 
 - Not so short [List of solutions](solutions.md)
 
+[1..50]()
+[51..100]()
+[101..150]()
+[151..200]()
+[201..250]()
+[251..300]()
+[301..350]()
+[351..400]()
+[401..450]()
+[451..500]()
+[501..550]()
+[551..600]()
+[601..650]()
+[651..700]()
+[701..750]()
+[751..800]()
+[801..850]()
+
 Otherwise direct to point:
 
 - [D](https://github.com/beskikoo/project-euler/tree/main/dlang)
