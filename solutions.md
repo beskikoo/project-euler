@@ -342,17 +342,17 @@
 | [737](https://projecteuler.net/problem=737) |  |  |
 | [738](https://projecteuler.net/problem=738) |  |  |
 | [739](https://projecteuler.net/problem=739) |  |  |
-| [740](https://projecteuler.net/problem=740) |  |  |
-| [741](https://projecteuler.net/problem=741) |  |  |
-| [742](https://projecteuler.net/problem=742) |  |  |
-| [743](https://projecteuler.net/problem=743) |  |  |
-| [744](https://projecteuler.net/problem=744) |  |  |
-| [745](https://projecteuler.net/problem=745) |  |  |
-| [746](https://projecteuler.net/problem=746) |  |  |
-| [747](https://projecteuler.net/problem=747) |  |  |
-| [748](https://projecteuler.net/problem=748) |  |  |
-| [749](https://projecteuler.net/problem=749) |  |  |
-| [750](https://projecteuler.net/problem=750) |  |  |
+| [740](https://projecteuler.net/problem=740) | Secret Santa |  |
+| [741](https://projecteuler.net/problem=741) | Binary grid colouring |  |
+| [742](https://projecteuler.net/problem=742) | Minimum area of a convex grid polygon |  |
+| [743](https://projecteuler.net/problem=743) | Window into a Matrix |  |
+| [744](https://projecteuler.net/problem=744) | What? Where? When? |  |
+| [745](https://projecteuler.net/problem=745) | Sum of Squares II |  |
+| [746](https://projecteuler.net/problem=746) | A Messy Dinner |  |
+| [747](https://projecteuler.net/problem=747) | Triangular Pizza |  |
+| [748](https://projecteuler.net/problem=748) | Upside down Diophantine equation |  |
+| [749](https://projecteuler.net/problem=749) | Near Power Sums |  |
+| [750](https://projecteuler.net/problem=750) | Optimal Card Stacking |  |
 
 ### 751..800
 
