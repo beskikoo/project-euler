@@ -344,6 +344,14 @@
 | [739](https://projecteuler.net/problem=739) |  |  |
 | [740](https://projecteuler.net/problem=740) |  |  |
 | [741](https://projecteuler.net/problem=741) |  |  |
+| [742](https://projecteuler.net/problem=742) |  |  |
+| [743](https://projecteuler.net/problem=743) |  |  |
+| [744](https://projecteuler.net/problem=744) |  |  |
+| [745](https://projecteuler.net/problem=745) |  |  |
+| [746](https://projecteuler.net/problem=746) |  |  |
+| [747](https://projecteuler.net/problem=747) |  |  |
+| [748](https://projecteuler.net/problem=748) |  |  |
+| [749](https://projecteuler.net/problem=749) |  |  |
 | [750](https://projecteuler.net/problem=750) |  |  |
 
 ### 751..800
