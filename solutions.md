@@ -51,7 +51,7 @@
 | [45](https://projecteuler.net/problem=45) | Triangular, pentagonal, and hexagonal |  |
 | [46](https://projecteuler.net/problem=46) | Goldbach's other conjecture |  |
 | [47](https://projecteuler.net/problem=47) | Distinct primes factors |  |
-| [48](https://projecteuler.net/problem=48) | Self powers | [q0048.d](https://github.com/menjaraz-org/project-euler/blob/main/dlang/q0048.d) |
+| [48](https://projecteuler.net/problem=48) | Self powers | [q0048.d](https://github.com/menjaraz-org/project-euler/blob/main/dlang/q0048.d) | [q0048.dpr](https://github.com/menjaraz-org/project-euler/blob/main/delphi/q0048.dpr) |
 | [49](https://projecteuler.net/problem=49) | Prime permutations |  |
 | [50](https://projecteuler.net/problem=50) | Consecutive prime sum |  |
 
