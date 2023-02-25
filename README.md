@@ -56,16 +56,9 @@ Let's dive in Together... we have got a way to go, a very very long journey.
 
 - Otherwise direct to point:
 
-[D](https://github.com/beskikoo/project-euler/tree/main/dlang)
-
-
-[Delphi](https://github.com/beskikoo/project-euler/tree/main/delphi)
-
-
-[R](https://github.com/beskikoo/project-euler/tree/main/R)
-
-
-[C++](https://github.com/beskikoo/project-euler/tree/main/c%2B%2B)
-
-
-[MiniZinc](https://github.com/beskikoo/project-euler/tree/main/minizinc)
+|:Languages:|
+| [D](https://github.com/beskikoo/project-euler/tree/main/dlang) |
+| [Delphi](https://github.com/beskikoo/project-euler/tree/main/delphi) |
+| [R](https://github.com/beskikoo/project-euler/tree/main/R) |
+| [C++](https://github.com/beskikoo/project-euler/tree/main/c%2B%2B) |
+| [MiniZinc](https://github.com/beskikoo/project-euler/tree/main/minizin)  |
