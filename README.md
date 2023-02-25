@@ -33,14 +33,11 @@ I may seldom upload some [R](https://www.r-project.org/about.html), [MiniZinc](h
 
 _Smart Young People_, I'm talking to **You** and if you dream of it... take notice: The [Project Euler](https://projecteuler.net) is the best way to go.
 
-
+Let's dive in Together... we have got a way to go, a very very long journey.
 
 ## TL;DR
 
-Let's dive in Together... we have got a way to go, a very very long journey.
-
 - Not so short [List of solutions](solutions.md)
-
 
 - Synopsis
 
@@ -59,10 +56,10 @@ Let's dive in Together... we have got a way to go, a very very long journey.
 
 
 
-Otherwise direct to point:
+- Otherwise direct to point:
 
-- [D](https://github.com/beskikoo/project-euler/tree/main/dlang)
-- [Delphi](https://github.com/beskikoo/project-euler/tree/main/delphi)
-- [R](https://github.com/beskikoo/project-euler/tree/main/R)
-- [C++](https://github.com/beskikoo/project-euler/tree/main/c%2B%2B)
-- [MiniZinc](https://github.com/beskikoo/project-euler/tree/main/minizinc)
+-- [D](https://github.com/beskikoo/project-euler/tree/main/dlang)
+-- [Delphi](https://github.com/beskikoo/project-euler/tree/main/delphi)
+-- [R](https://github.com/beskikoo/project-euler/tree/main/R)
+-- [C++](https://github.com/beskikoo/project-euler/tree/main/c%2B%2B)
+-- [MiniZinc](https://github.com/beskikoo/project-euler/tree/main/minizinc)
