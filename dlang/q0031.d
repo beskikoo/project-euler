@@ -19,25 +19,25 @@ void main() {
 	
     timer.start();
 	
-    auto resultat = 0;
-    auto reste = 200;
+    auto result = 0;
+    auto remainder = 200;
 
-    foreach(a; iota(0, reste+1, 200)) {
-        reste = 200 - a;
-        foreach(b; iota(0, reste+1, 100)) {
-            reste = 200 - a - b;
-            foreach(c; iota(0, reste+1, 50)) {
-                reste = 200 - a - b - c;
-                foreach(d; iota(0, reste+1, 20)) {
-                    reste = 200 - a - b - c - d;
-                    foreach(e; iota(0, reste+1, 10)) {
-                        reste = 200 - a - b - c - d - e;
-                        foreach(f; iota(0, reste+1, 5)) {
-                            reste = 200 - a - b - c - d - e - f;
-                            foreach(g; iota(0, reste+1, 2)) {
+    foreach(a; iota(0, remainder+1, 200)) {
+        remainder = 200 - a;
+        foreach(b; iota(0, remainder+1, 100)) {
+            remainder = 200 - a - b;
+            foreach(c; iota(0, remainder+1, 50)) {
+                remainder = 200 - a - b - c;
+                foreach(d; iota(0, remainder+1, 20)) {
+                    remainder = 200 - a - b - c - d;
+                    foreach(e; iota(0, remainder+1, 10)) {
+                        remainder = 200 - a - b - c - d - e;
+                        foreach(f; iota(0, remainder+1, 5)) {
+                            remainder = 200 - a - b - c - d - e - f;
+                            foreach(g; iota(0, remainder+1, 2)) {
                                 // h = ;
                                 if (200 - a - b - c - d - e - f - g >= 0) {
-                                    resultat += 1;
+                                    result += 1;
                                 }
                             }
                         }
@@ -50,7 +50,7 @@ void main() {
 
     timer.stop();
 	
-    writeln(resultat);
+    writeln(result);
 	
     writefln("Elapsed time: %s milliseconds.", timer.peek.total!"msecs"());
 }
