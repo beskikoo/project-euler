@@ -338,10 +338,10 @@
 | [733](https://projecteuler.net/problem=733) |  |  |
 | [734](https://projecteuler.net/problem=734) |  |  |
 | [735](https://projecteuler.net/problem=735) | Divisors of $2n^2$ |  |
-| [736](https://projecteuler.net/problem=736) |  |  |
-| [737](https://projecteuler.net/problem=737) |  |  |
-| [738](https://projecteuler.net/problem=738) |  |  |
-| [739](https://projecteuler.net/problem=739) |  |  |
+| [736](https://projecteuler.net/problem=736) | Paths to Equality |  |
+| [737](https://projecteuler.net/problem=737) | Coin Loops |  |
+| [738](https://projecteuler.net/problem=738) | Counting Ordered Factorisations |  |
+| [739](https://projecteuler.net/problem=739) | Summation of Summations |  |
 | [740](https://projecteuler.net/problem=740) | Secret Santa |  |
 | [741](https://projecteuler.net/problem=741) | Binary grid colouring |  |
 | [742](https://projecteuler.net/problem=742) | Minimum area of a convex grid polygon |  |
