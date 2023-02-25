@@ -41,7 +41,7 @@ Let's dive in Together... we have got a way to go, a very very long journey.
 
 - Not so short [List of solutions](solutions.md)
 
-| 1..500 | 501..850 |
+| 1..500 | 501..820 |
 | ----- | ----- |
 | [1..50](https://github.com/beskikoo/project-euler/blob/main/solutions.md#150) |[501..550](https://github.com/beskikoo/project-euler/blob/main/solutions.md#501550) 
 | [51..100](https://github.com/beskikoo/project-euler/blob/main/solutions.md#51100) | [551..600](https://github.com/beskikoo/project-euler/blob/main/solutions.md#551600) 
@@ -49,7 +49,7 @@ Let's dive in Together... we have got a way to go, a very very long journey.
 | [151..200](https://github.com/beskikoo/project-euler/blob/main/solutions.md#151200) | [651..700](https://github.com/beskikoo/project-euler/blob/main/solutions.md#651700) 
 | [201..250](https://github.com/beskikoo/project-euler/blob/main/solutions.md#201250) | [701..750](https://github.com/beskikoo/project-euler/blob/main/solutions.md#701750) 
 | [251..300](https://github.com/beskikoo/project-euler/blob/main/solutions.md#251300) | [751..800](https://github.com/beskikoo/project-euler/blob/main/solutions.md#751800) 
-| [301..350](https://github.com/beskikoo/project-euler/blob/main/solutions.md#301350) | [801..850](https://github.com/beskikoo/project-euler/blob/main/solutions.md#801850) |
+| [301..350](https://github.com/beskikoo/project-euler/blob/main/solutions.md#301350) | [801..820](https://github.com/beskikoo/project-euler/blob/main/solutions.md#801850) |
 | [351..400](https://github.com/beskikoo/project-euler/blob/main/solutions.md#351400) |
 | [401..450](https://github.com/beskikoo/project-euler/blob/main/solutions.md#401450) |
 | [451..500](https://github.com/beskikoo/project-euler/blob/main/solutions.md#451500) |
