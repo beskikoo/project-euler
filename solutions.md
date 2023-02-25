@@ -334,7 +334,15 @@
 | [729](https://projecteuler.net/problem=729) |  |  |
 | [730](https://projecteuler.net/problem=730) |  |  |
 | [731](https://projecteuler.net/problem=731) |  |  |
+| [732](https://projecteuler.net/problem=732) |  |  |
+| [733](https://projecteuler.net/problem=733) |  |  |
+| [734](https://projecteuler.net/problem=734) |  |  |
 | [735](https://projecteuler.net/problem=735) | Divisors of $2n^2$ |  |
+| [736](https://projecteuler.net/problem=736) |  |  |
+| [737](https://projecteuler.net/problem=737) |  |  |
+| [738](https://projecteuler.net/problem=738) |  |  |
+| [739](https://projecteuler.net/problem=739) |  |  |
+| [740](https://projecteuler.net/problem=740) |  |  |
 | [741](https://projecteuler.net/problem=741) |  |  |
 | [750](https://projecteuler.net/problem=750) |  |  |
 
