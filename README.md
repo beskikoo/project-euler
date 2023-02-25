@@ -41,7 +41,6 @@ Let's dive in Together... we have got a way to go, a very very long journey.
 
 - Not so short [List of solutions](solutions.md)
 
-| ----- | ----- |
 | 1..500 | 501..850 |
 | ----- | ----- |
 | [1..50](https://github.com/beskikoo/project-euler/blob/main/solutions.md#150) |[501..550](https://github.com/beskikoo/project-euler/blob/main/solutions.md#501550) 
