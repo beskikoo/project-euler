@@ -304,17 +304,17 @@
 | ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | [701](https://projecteuler.net/problem=701) | Random connected area |  |
-| [702](https://projecteuler.net/problem=702) |  |  |
-| [703](https://projecteuler.net/problem=703) |  |  |
-| [704](https://projecteuler.net/problem=704) |  |  |
-| [705](https://projecteuler.net/problem=705) |  |  |
-| [706](https://projecteuler.net/problem=706) |  |  |
-| [707](https://projecteuler.net/problem=707) |  |  |
-| [708](https://projecteuler.net/problem=708) |  |  |
-| [709](https://projecteuler.net/problem=709) |  |  |
-| [710](https://projecteuler.net/problem=710) |  |  |
-| [711](https://projecteuler.net/problem=711) |  |  |
-| [712](https://projecteuler.net/problem=712) |  |  |
+| [702](https://projecteuler.net/problem=702) | Jumping Flea |  |
+| [703](https://projecteuler.net/problem=703) | Circular Logic II |  |
+| [704](https://projecteuler.net/problem=704) | Factors of Two in Binomial Coefficients |  |
+| [705](https://projecteuler.net/problem=705) | Total Inversion Count of Divided Sequences |  |
+| [706](https://projecteuler.net/problem=706) | 3-Like Numbers |  |
+| [707](https://projecteuler.net/problem=707) | Lights Out |  |
+| [708](https://projecteuler.net/problem=708) | Twos are all you need |  |
+| [709](https://projecteuler.net/problem=709) | Even Stevens |  |
+| [710](https://projecteuler.net/problem=710) | One Million Members |  |
+| [711](https://projecteuler.net/problem=711) | Binary Blackboard |  |
+| [712](https://projecteuler.net/problem=712) | Exponent Difference |  |
 | [713](https://projecteuler.net/problem=713) |  |  |
 | [714](https://projecteuler.net/problem=714) |  |  |
 | [715](https://projecteuler.net/problem=715) |  |  |
