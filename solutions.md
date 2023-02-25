@@ -332,7 +332,7 @@
 | [727](https://projecteuler.net/problem=727) |  |  |
 | [728](https://projecteuler.net/problem=728) |  |  |
 | [729](https://projecteuler.net/problem=729) |  |  |
-| [730](https://projecteuler.net/problem=720) |  |  |
+| [730](https://projecteuler.net/problem=730) |  |  |
 | [731](https://projecteuler.net/problem=731) |  |  |
 | [735](https://projecteuler.net/problem=735) | Divisors of $2n^2$ |  |
 | [741](https://projecteuler.net/problem=741) |  |  |
