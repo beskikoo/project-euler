@@ -42,7 +42,7 @@ Let's dive in Together... we have got a way to go, a very very long journey.
 - Synopsis
 
 | 1..500 | 501..820 |
-|:-----:|:-----:|
+|:------:|:--------:|
 | [1..50](https://github.com/beskikoo/project-euler/blob/main/solutions.md#150) |[501..550](https://github.com/beskikoo/project-euler/blob/main/solutions.md#501550) 
 | [51..100](https://github.com/beskikoo/project-euler/blob/main/solutions.md#51100) | [551..600](https://github.com/beskikoo/project-euler/blob/main/solutions.md#551600) 
 | [101..150](https://github.com/beskikoo/project-euler/blob/main/solutions.md#101150)| [601..650](https://github.com/beskikoo/project-euler/blob/main/solutions.md#601650)  
@@ -56,7 +56,8 @@ Let's dive in Together... we have got a way to go, a very very long journey.
 
 - Otherwise direct to point:
 
-|:Languages:|
+| Languages |
+|:---------:|
 | [D](https://github.com/beskikoo/project-euler/tree/main/dlang) |
 | [Delphi](https://github.com/beskikoo/project-euler/tree/main/delphi) |
 | [R](https://github.com/beskikoo/project-euler/tree/main/R) |
