@@ -37,7 +37,7 @@ Let's dive in Together... we have got a way to go, a very very long journey.
 
 ## TL;DR
 
-- Not so short [List of solutions](solutions.md)
+- Not so short [List of Solutions](solutions.md)
 
 - Synopsis
 
