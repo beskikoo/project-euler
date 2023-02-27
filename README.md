@@ -16,7 +16,7 @@ We are [Inscae](https://www.inscae.mg/) ...
 
 <p align="center"><img src="logo.png"></p>
 
-I was involved in Financial Auditing, Software Development, Venture Capital, Property Management, Public Administration and Business Management.
+I was involved during my bio in Financial Auditing, Software Development, Venture Capital, Property Management, Public Administration and Business Management.
 
 ## Coding and why mostly Delphi and D?
 
