@@ -4,7 +4,7 @@
  * 10001st prime
  * Link: https://projecteuler.net/problem=7
  *
- * Solution: 73_682
+ * Solution: 104_743
  *
  * Written in DMD64 D Compiler v2.102
  *
