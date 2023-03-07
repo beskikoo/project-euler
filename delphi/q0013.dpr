@@ -50,12 +50,12 @@ begin
 
       Writeln(Str.Substring(0, 10));
 
+      //
+      ElapsedTime := StopWatch.ElapsedMilliseconds;
+
     Finally
       Lines.Destroy;
     End;
-
-    //
-    ElapsedTime := StopWatch.ElapsedMilliseconds;
 
     Writeln;
     Writeln(Format('Elapsed time: %u milliseconds.', [ElapsedTime]));
