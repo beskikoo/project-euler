@@ -16,7 +16,7 @@
 | [10](https://projecteuler.net/problem=10) | Summation of primes |  |
 | [11](https://projecteuler.net/problem=11) | Largest product in a grid |  |
 | [12](https://projecteuler.net/problem=12) | Highly divisible triangular number |  |
-| [13](https://projecteuler.net/problem=13) | Large sum | [q0013.d](https://github.com/menjaraz-org/project-euler/blob/main/dlang/q0013.d) |  | [q0013.r](https://github.com/menjaraz-org/project-euler/blob/main/R/q0013.r) |
+| [13](https://projecteuler.net/problem=13) | Large sum | [q0013.d](https://github.com/menjaraz-org/project-euler/blob/main/dlang/q0013.d) | [q0013.dpr](https://github.com/menjaraz-org/project-euler/blob/main/delphi/q0013.dpr) | [q0013.r](https://github.com/menjaraz-org/project-euler/blob/main/R/q0013.r) |
 | [14](https://projecteuler.net/problem=14) | Longest Collatz sequence |  | [q0014.dpr](https://github.com/menjaraz-org/project-euler/blob/main/delphi/q0014.dpr) | [q0014.r](https://github.com/menjaraz-org/project-euler/blob/main/R/q0014.r) |
 | [15](https://projecteuler.net/problem=15) | Lattice paths |  |
 | [16](https://projecteuler.net/problem=16) | Power digit sum |  | [q0016.dpr](https://github.com/menjaraz-org/project-euler/blob/main/delphi/q0016.dpr) | [q0016.r](https://github.com/menjaraz-org/project-euler/blob/main/R/q0016.r) |
