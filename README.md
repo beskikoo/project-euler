@@ -60,6 +60,6 @@ Let's dive in Together... we have got a way to go, a very very long journey.
 |:---------:|
 | [D](https://github.com/beskikoo/project-euler/tree/main/dlang#d) |
 | [Delphi](https://github.com/beskikoo/project-euler/tree/main/delphi#delphi) |
-| [R](https://github.com/beskikoo/project-euler/tree/main/R) |
+| [R](https://github.com/beskikoo/project-euler/tree/main/R#r) |
 | [C++](https://github.com/beskikoo/project-euler/tree/main/c%2B%2B) |
 | [MiniZinc](https://github.com/beskikoo/project-euler/tree/main/minizinc)  |
