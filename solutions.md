@@ -37,7 +37,7 @@
 | [31](https://projecteuler.net/problem=31) | Coin sums | [q0031.d](https://github.com/menjaraz-org/project-euler/blob/main/dlang/q0031.d) |
 | [32](https://projecteuler.net/problem=32) | Digit fifth powers |  |
 | [33](https://projecteuler.net/problem=33) | Digit cancelling fractions |  |
-| [34](https://projecteuler.net/problem=34) | Digit factorials |  |
+| [34](https://projecteuler.net/problem=34) | Digit factorials |  |  | [q0034.r](https://github.com/menjaraz-org/project-euler/blob/main/R/q0034.r) |
 | [35](https://projecteuler.net/problem=35) | Circular primes |  |
 | [36](https://projecteuler.net/problem=36) | Double-base palindromes |  |
 | [37](https://projecteuler.net/problem=37) | Truncatable primes |  |
