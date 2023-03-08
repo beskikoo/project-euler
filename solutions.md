@@ -183,6 +183,15 @@
 | ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | [201](https://projecteuler.net/problem=201) | Subsets with a unique sum |  |
+| [202](https://projecteuler.net/problem=202) |  |  |
+| [203](https://projecteuler.net/problem=203) |  |  |
+| [204](https://projecteuler.net/problem=204) |  |  |
+| [205](https://projecteuler.net/problem=205) |  |  |
+| [206](https://projecteuler.net/problem=206) | Concealed Square |  | [q0206.dpr](https://github.com/menjaraz-org/project-euler/blob/main/delphi/q0206.dpr) |
+| [207](https://projecteuler.net/problem=207) |  |  |
+| [208](https://projecteuler.net/problem=208) |  |  |
+| [209](https://projecteuler.net/problem=209) |  |  |
+| [210](https://projecteuler.net/problem=210) |  |  |
 | [211](https://projecteuler.net/problem=211) |  |  |
 | [216](https://projecteuler.net/problem=216) | Investigating the primality of numbers of the form 2<var>n</var><sup>2</sup>-1 |  |
 | [221](https://projecteuler.net/problem=221) |  |  |
