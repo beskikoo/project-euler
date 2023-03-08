@@ -1,6 +1,6 @@
 # Project Euler
 # Question 34
-# Largest prime factor
+# Digit factorials
 # Link: https://projecteuler.net/problem=34
 #
 # Solution of the problem: 40730
