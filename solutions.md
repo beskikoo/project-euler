@@ -170,11 +170,24 @@
 | ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | [151](https://projecteuler.net/problem=151) | Paper sheets of standard sizes: an expected-value problem |  |
+
 | [157](https://projecteuler.net/problem=157) | Solving the diophantine equation <sup>1</sup>/<sub><var>a</var></sub>+<sup>1</sup>/<sub><var>b</var></sub>= <sup><var>p</var></sup>/<sub>10<sup><var>n</var></sup></sub> |  |
+
 | [161](https://projecteuler.net/problem=161) | Triominoes |  |
+
 | [171](https://projecteuler.net/problem=171) | Finding numbers for which the sum of the squares of the digits is a square |  |
+
 | [181](https://projecteuler.net/problem=181) | Investigating in how many ways objects of two different colours can be grouped |  |
+
 | [191](https://projecteuler.net/problem=191) | Prize Strings |  |
+| [192](https://projecteuler.net/problem=192) |  |
+| [193](https://projecteuler.net/problem=193) |  |
+| [194](https://projecteuler.net/problem=194) |  |
+| [195](https://projecteuler.net/problem=195) |  |
+| [196](https://projecteuler.net/problem=196) |  |
+| [197](https://projecteuler.net/problem=197) |  |
+| [198](https://projecteuler.net/problem=198) |  |
+| [199](https://projecteuler.net/problem=199) |  |
 | [200](https://projecteuler.net/problem=200) | Find the 200th prime-proof sqube containing the contiguous sub-string "200" |  |
 
 
