@@ -180,9 +180,25 @@
 | [159](https://projecteuler.net/problem=159) |
 | [160](https://projecteuler.net/problem=160) |
 | [161](https://projecteuler.net/problem=161) | Triominoes |  |
-
+| [162](https://projecteuler.net/problem=162) |
+| [163](https://projecteuler.net/problem=163) |
+| [164](https://projecteuler.net/problem=164) |
+| [165](https://projecteuler.net/problem=165) |
+| [166](https://projecteuler.net/problem=166) |
+| [167](https://projecteuler.net/problem=167) |
+| [168](https://projecteuler.net/problem=168) |
+| [169](https://projecteuler.net/problem=169) |
+| [170](https://projecteuler.net/problem=170) |
 | [171](https://projecteuler.net/problem=171) | Finding numbers for which the sum of the squares of the digits is a square |  |
-
+| [172](https://projecteuler.net/problem=172) |
+| [173](https://projecteuler.net/problem=173) |
+| [174](https://projecteuler.net/problem=174) |
+| [175](https://projecteuler.net/problem=175) |
+| [176](https://projecteuler.net/problem=176) |
+| [177](https://projecteuler.net/problem=177) |
+| [178](https://projecteuler.net/problem=178) |
+| [179](https://projecteuler.net/problem=179) |
+| [180](https://projecteuler.net/problem=180) |
 | [181](https://projecteuler.net/problem=181) | Investigating in how many ways objects of two different colours can be grouped |  |
 | [182](https://projecteuler.net/problem=182) |  |
 | [183](https://projecteuler.net/problem=183) |  |
