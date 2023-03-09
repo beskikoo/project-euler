@@ -170,15 +170,29 @@
 | ID | Description / Title | D | Delphi | R | C++ | MiniZinc |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | [151](https://projecteuler.net/problem=151) | Paper sheets of standard sizes: an expected-value problem |  |
-
+| [152](https://projecteuler.net/problem=152) |
+| [153](https://projecteuler.net/problem=153) |
+| [154](https://projecteuler.net/problem=154) |
+| [155](https://projecteuler.net/problem=155) |
+| [156](https://projecteuler.net/problem=156) |
 | [157](https://projecteuler.net/problem=157) | Solving the diophantine equation <sup>1</sup>/<sub><var>a</var></sub>+<sup>1</sup>/<sub><var>b</var></sub>= <sup><var>p</var></sup>/<sub>10<sup><var>n</var></sup></sub> |  |
-
+| [158](https://projecteuler.net/problem=158) |
+| [159](https://projecteuler.net/problem=159) |
+| [160](https://projecteuler.net/problem=160) |
 | [161](https://projecteuler.net/problem=161) | Triominoes |  |
 
 | [171](https://projecteuler.net/problem=171) | Finding numbers for which the sum of the squares of the digits is a square |  |
 
 | [181](https://projecteuler.net/problem=181) | Investigating in how many ways objects of two different colours can be grouped |  |
-
+| [182](https://projecteuler.net/problem=182) |  |
+| [183](https://projecteuler.net/problem=183) |  |
+| [184](https://projecteuler.net/problem=184) |  |
+| [185](https://projecteuler.net/problem=185) |  |
+| [186](https://projecteuler.net/problem=186) |  |
+| [187](https://projecteuler.net/problem=187) |  |
+| [188](https://projecteuler.net/problem=188) |  |
+| [189](https://projecteuler.net/problem=189) |  |
+| [190](https://projecteuler.net/problem=190) |  |
 | [191](https://projecteuler.net/problem=191) | Prize Strings |  |
 | [192](https://projecteuler.net/problem=192) |  |
 | [193](https://projecteuler.net/problem=193) |  |
