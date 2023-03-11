@@ -485,5 +485,5 @@
 | [817](https://projecteuler.net/problem=817) | Digits in Squares |  |
 | [818](https://projecteuler.net/problem=818) | SET |  |
 | [819](https://projecteuler.net/problem=819) | Iterative Sampling |  |
-| [820](https://projecteuler.net/problem=820) | $N$<sup>th</sup> digit of Reciprocals |  |
+| [820](https://projecteuler.net/problem=820) | $N$<sup>th</sup> digit of Reciprocals | [q0820.d](https://github.com/menjaraz-org/project-euler/blob/main/dlang/q0820.d) |
 
