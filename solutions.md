@@ -496,5 +496,5 @@
 | [828](https://projecteuler.net/problem=828) | Numbers Challenge |  |
 | [829](https://projecteuler.net/problem=829) | Integral Fusion |  |
 | [830](https://projecteuler.net/problem=830) | Binomials and Powers | [q0830.d](https://github.com/menjaraz-org/project-euler/blob/main/dlang/q0830.d) |
-| [831](https://projecteuler.net/problem=831) | Triple Product |  |
+| [831](https://projecteuler.net/problem=831) | Triple Product | [q0831.d](https://github.com/menjaraz-org/project-euler/blob/main/dlang/q0831.d) |
 | [832](https://projecteuler.net/problem=832) | Mex Sequence |  |
