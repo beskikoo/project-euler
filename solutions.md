@@ -488,11 +488,11 @@
 | [820](https://projecteuler.net/problem=820) | $N$<sup>th</sup> digit of Reciprocals | [q0820.d](https://github.com/menjaraz-org/project-euler/blob/main/dlang/q0820.d) |
 | [821](https://projecteuler.net/problem=821) |
 | [822](https://projecteuler.net/problem=822) |
-| [823](https://projecteuler.net/problem=823) |
-| [824](https://projecteuler.net/problem=824) |
-| [825](https://projecteuler.net/problem=825) |
-| [826](https://projecteuler.net/problem=826) |
-| [827](https://projecteuler.net/problem=827) |
+| [823](https://projecteuler.net/problem=823) | Factor Shuffle |
+| [824](https://projecteuler.net/problem=824) | Chess Sliders |
+| [825](https://projecteuler.net/problem=825) | Chasing Game |
+| [826](https://projecteuler.net/problem=826) | Birds on a Wire |
+| [827](https://projecteuler.net/problem=827) | Pythagorean Triple Occurrence |
 | [828](https://projecteuler.net/problem=828) | Numbers Challenge |
 | [829](https://projecteuler.net/problem=829) | Integral Fusion |
 | [830](https://projecteuler.net/problem=830) | Binomials and Powers | [q0830.d](https://github.com/menjaraz-org/project-euler/blob/main/dlang/q0830.d) |
