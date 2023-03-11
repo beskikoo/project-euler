@@ -22,8 +22,9 @@ Relevant _computer literacy_ right after graduation combined with an _early expo
 
 - [Delphi](https://www.embarcadero.com/products/delphi) (11 Alexandria) my language of choice.
 - [DMD](https://tour.dlang.org/tour/en/welcome/welcome-to-d) (Version 2) for side projects.
+- [R](https://www.r-project.org/about.html) a programming language for statistical computing and graphics.
 
-I may seldom upload some [R](https://www.r-project.org/about.html), [MiniZinc](https://www.minizinc.org/) and [C++](https://fr.wikipedia.org/wiki/C%2B%2B) pieces of code later on.
+I may seldom upload some [MiniZinc](https://www.minizinc.org/) and [C++](https://fr.wikipedia.org/wiki/C%2B%2B) pieces of code later on.
 
 ## The Project Euler
 
