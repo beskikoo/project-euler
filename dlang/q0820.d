@@ -11,7 +11,7 @@
  * © 2023, menjaraz
 */
 
-import std.stdio, std.math;
+import std.stdio, std.datetime.stopwatch, std.math;
 
 long sumdecimaldigit(uint n) {
 	long sum;
@@ -25,5 +25,11 @@ long sumdecimaldigit(uint n) {
 
 void main()
 {
+	StopWatch timer;	
+	timer.start();
+	
 	writeln(sumdecimaldigit(10_000_000));
+	
+	timer.stop();
+	writefln("Elapsed time: %s milliseconds.", timer.peek.total!"msecs"());
 }
