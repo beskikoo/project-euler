@@ -16,6 +16,8 @@ import std.stdio, std.datetime.stopwatch, std.math;
 long sumdecimaldigit(uint n) {
 	long sum;
 
+	sum = 0;
+	
 	for( uint i = 1; i < n; i++ ) {
 		sum += powmod(10U, n-1, i) * 10U / i;
 	}
