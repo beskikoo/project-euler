@@ -4,9 +4,7 @@
 
 Mathematical and Programming skills... **the take** of an _Accountant_ by education.
 
-Learn, **unlearn** and relearn
-
-🔥 🔥 🔥 💪 💪 💪 💝 💝 💝
+Learn 🔥 🔥 🔥, **unlearn** 💪 💪 💪  and relearn 💝 💝 💝
 
 ## Educational and Professional Backgrounds
 
