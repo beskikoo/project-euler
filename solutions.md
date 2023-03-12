@@ -498,3 +498,4 @@
 | [830](https://projecteuler.net/problem=830) | Binomials and Powers | [q0830.d](https://github.com/menjaraz-org/project-euler/blob/main/dlang/q0830.d) |
 | [831](https://projecteuler.net/problem=831) | Triple Product | [q0831.d](https://github.com/menjaraz-org/project-euler/blob/main/dlang/q0831.d) |
 | [832](https://projecteuler.net/problem=832) | Mex Sequence |  |
+| [833](https://projecteuler.net/problem=833) | Square Triangle Products |
