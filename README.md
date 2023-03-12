@@ -6,6 +6,8 @@ Mathematical and Programming skills... **the take** of an _Accountant_ by educat
 
 Learn 🔥 🔥 🔥, **unlearn** 💪 💪 💪  and relearn 💝 💝 💝
 
+<p align="center"><img src="https://projecteuler.net/profile/menjanahary.png"></p>
+
 ## Educational and Professional Backgrounds
 
 Coding, at the bottom line, is **Math** :brain: :brain: :brain: ... and I took some  [MIS](https://en.wikipedia.org/wiki/Management_information_system) and Coding _primer courses_ during my graduation. Last but not the least [Business mathematics](https://en.wikipedia.org/wiki/Business_mathematics) was also part of the game.
