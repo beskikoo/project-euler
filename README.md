@@ -16,7 +16,7 @@ We are [Inscae](https://www.inscae.mg/) ...
 
 I was involved during my bio in Financial Auditing, Software Development, Venture Capital, Property Management, Public Administration and Business Management.
 
-## Coding and why mostly Delphi and D?
+## Coding and why mostly in Delphi and D?
 
 Relevant _computer literacy_ right after graduation combined with an _early exposition_ to [IBM Personal Computer XT](https://en.wikipedia.org/wiki/IBM_Personal_Computer_XT) at work since first job helped me a lot _Starting the Ball Bolling_.
 
