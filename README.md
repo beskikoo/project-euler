@@ -32,7 +32,7 @@ I may seldom upload some [C++](https://fr.wikipedia.org/wiki/C%2B%2B) and [MiniZ
 
 _Smart Young People_, I'm talking to **You** and if you dream of it... take notice: The [Project Euler](https://projecteuler.net) is the best way to go.
 
-Let's dive in Together... we have got a way to go, a very very long journey.
+Let's dive in... we have got a way to go together, a very very long journey.
 
 ## TL;DR
 
